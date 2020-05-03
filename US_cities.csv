@@ -1,0 +1,3236 @@
+,State,Cities,Country,State_long,Country_long
+0,AL,Autauga ,US,Alabama,United States
+1,AL,Baldwin ,US,Alabama,United States
+2,AL,Barbour ,US,Alabama,United States
+3,AL,Bibb ,US,Alabama,United States
+4,AL,Blount ,US,Alabama,United States
+5,AL,Bullock ,US,Alabama,United States
+6,AL,Butler ,US,Alabama,United States
+7,AL,Calhoun ,US,Alabama,United States
+8,AL,Chambers ,US,Alabama,United States
+9,AL,Cherokee ,US,Alabama,United States
+10,AL,Chilton ,US,Alabama,United States
+11,AL,Choctaw ,US,Alabama,United States
+12,AL,Clarke ,US,Alabama,United States
+13,AL,Clay ,US,Alabama,United States
+14,AL,Cleburne ,US,Alabama,United States
+15,AL,Coffee ,US,Alabama,United States
+16,AL,Colbert ,US,Alabama,United States
+17,AL,Conecuh ,US,Alabama,United States
+18,AL,Coosa ,US,Alabama,United States
+19,AL,Covington ,US,Alabama,United States
+20,AL,Crenshaw ,US,Alabama,United States
+21,AL,Cullman ,US,Alabama,United States
+22,AL,Dale ,US,Alabama,United States
+23,AL,Dallas ,US,Alabama,United States
+24,AL,DeKalb ,US,Alabama,United States
+25,AL,Elmore ,US,Alabama,United States
+26,AL,Escambia ,US,Alabama,United States
+27,AL,Etowah ,US,Alabama,United States
+28,AL,Fayette ,US,Alabama,United States
+29,AL,Franklin ,US,Alabama,United States
+30,AL,Geneva ,US,Alabama,United States
+31,AL,Greene ,US,Alabama,United States
+32,AL,Hale ,US,Alabama,United States
+33,AL,Henry ,US,Alabama,United States
+34,AL,Houston ,US,Alabama,United States
+35,AL,Jackson ,US,Alabama,United States
+36,AL,Jefferson ,US,Alabama,United States
+37,AL,Lamar ,US,Alabama,United States
+38,AL,Lauderdale ,US,Alabama,United States
+39,AL,Lawrence ,US,Alabama,United States
+40,AL,Lee ,US,Alabama,United States
+41,AL,Limestone ,US,Alabama,United States
+42,AL,Lowndes ,US,Alabama,United States
+43,AL,Macon ,US,Alabama,United States
+44,AL,Madison ,US,Alabama,United States
+45,AL,Marengo ,US,Alabama,United States
+46,AL,Marion ,US,Alabama,United States
+47,AL,Marshall ,US,Alabama,United States
+48,AL,Mobile ,US,Alabama,United States
+49,AL,Monroe ,US,Alabama,United States
+50,AL,Montgomery ,US,Alabama,United States
+51,AL,Morgan ,US,Alabama,United States
+52,AL,Perry ,US,Alabama,United States
+53,AL,Pickens ,US,Alabama,United States
+54,AL,Pike ,US,Alabama,United States
+55,AL,Randolph ,US,Alabama,United States
+56,AL,Russell ,US,Alabama,United States
+57,AL,St. Clair ,US,Alabama,United States
+58,AL,Shelby ,US,Alabama,United States
+59,AL,Sumter ,US,Alabama,United States
+60,AL,Talladega ,US,Alabama,United States
+61,AL,Tallapoosa ,US,Alabama,United States
+62,AL,Tuscaloosa ,US,Alabama,United States
+63,AL,Walker ,US,Alabama,United States
+64,AL,Washington ,US,Alabama,United States
+65,AL,Wilcox ,US,Alabama,United States
+66,AL,Winston ,US,Alabama,United States
+67,AK,Aleutians East Borough,US,Alaska,United States
+68,AK,Aleutians West ,US,Alaska,United States
+69,AK,Anchorage Municipality,US,Alaska,United States
+70,AK,Bethel ,US,Alaska,United States
+71,AK,Bristol Bay Borough,US,Alaska,United States
+72,AK,Denali Borough,US,Alaska,United States
+73,AK,Dillingham ,US,Alaska,United States
+74,AK,Fairbanks North Star Borough,US,Alaska,United States
+75,AK,Haines Borough,US,Alaska,United States
+76,AK,Hoonah-Angoon ,US,Alaska,United States
+77,AK,Juneau City and Borough,US,Alaska,United States
+78,AK,Kenai Peninsula Borough,US,Alaska,United States
+79,AK,Ketchikan Gateway Borough,US,Alaska,United States
+80,AK,Kodiak  Borough,US,Alaska,United States
+81,AK,Lake and Peninsula Borough,US,Alaska,United States
+82,AK,Matanuska-Susitna Borough,US,Alaska,United States
+83,AK,Nome ,US,Alaska,United States
+84,AK,North Slope Borough,US,Alaska,United States
+85,AK,Northwest Arctic Borough,US,Alaska,United States
+86,AK,Petersburg ,US,Alaska,United States
+87,AK,Prince of Wales-Hyder ,US,Alaska,United States
+88,AK,Sitka City and Borough,US,Alaska,United States
+89,AK,Skagway Municipality,US,Alaska,United States
+90,AK,Southeast Fairbanks ,US,Alaska,United States
+91,AK,Valdez-Cordova ,US,Alaska,United States
+92,AK,Wade Hampton ,US,Alaska,United States
+93,AK,Wrangell City and Borough,US,Alaska,United States
+94,AK,Yakutat City and Borough,US,Alaska,United States
+95,AK,Yukon-Koyukuk ,US,Alaska,United States
+96,AZ,Apache ,US,Arizona,United States
+97,AZ,Cochise ,US,Arizona,United States
+98,AZ,Coconino ,US,Arizona,United States
+99,AZ,Gila ,US,Arizona,United States
+100,AZ,Graham ,US,Arizona,United States
+101,AZ,Greenlee ,US,Arizona,United States
+102,AZ,La Paz ,US,Arizona,United States
+103,AZ,Maricopa ,US,Arizona,United States
+104,AZ,Mohave ,US,Arizona,United States
+105,AZ,Navajo ,US,Arizona,United States
+106,AZ,Pima ,US,Arizona,United States
+107,AZ,Pinal ,US,Arizona,United States
+108,AZ,Santa Cruz ,US,Arizona,United States
+109,AZ,Yavapai ,US,Arizona,United States
+110,AZ,Yuma ,US,Arizona,United States
+111,AR,Arkansas ,US,Arkansas,United States
+112,AR,Ashley ,US,Arkansas,United States
+113,AR,Baxter ,US,Arkansas,United States
+114,AR,Benton ,US,Arkansas,United States
+115,AR,Boone ,US,Arkansas,United States
+116,AR,Bradley ,US,Arkansas,United States
+117,AR,Calhoun ,US,Arkansas,United States
+118,AR,Carroll ,US,Arkansas,United States
+119,AR,Chicot ,US,Arkansas,United States
+120,AR,Clark ,US,Arkansas,United States
+121,AR,Clay ,US,Arkansas,United States
+122,AR,Cleburne ,US,Arkansas,United States
+123,AR,Cleveland ,US,Arkansas,United States
+124,AR,Columbia ,US,Arkansas,United States
+125,AR,Conway ,US,Arkansas,United States
+126,AR,Craighead ,US,Arkansas,United States
+127,AR,Crawford ,US,Arkansas,United States
+128,AR,Crittenden ,US,Arkansas,United States
+129,AR,Cross ,US,Arkansas,United States
+130,AR,Dallas ,US,Arkansas,United States
+131,AR,Desha ,US,Arkansas,United States
+132,AR,Drew ,US,Arkansas,United States
+133,AR,Faulkner ,US,Arkansas,United States
+134,AR,Franklin ,US,Arkansas,United States
+135,AR,Fulton ,US,Arkansas,United States
+136,AR,Garland ,US,Arkansas,United States
+137,AR,Grant ,US,Arkansas,United States
+138,AR,Greene ,US,Arkansas,United States
+139,AR,Hempstead ,US,Arkansas,United States
+140,AR,Hot Spring ,US,Arkansas,United States
+141,AR,Howard ,US,Arkansas,United States
+142,AR,Independence ,US,Arkansas,United States
+143,AR,Izard ,US,Arkansas,United States
+144,AR,Jackson ,US,Arkansas,United States
+145,AR,Jefferson ,US,Arkansas,United States
+146,AR,Johnson ,US,Arkansas,United States
+147,AR,Lafayette ,US,Arkansas,United States
+148,AR,Lawrence ,US,Arkansas,United States
+149,AR,Lee ,US,Arkansas,United States
+150,AR,Lincoln ,US,Arkansas,United States
+151,AR,Little River ,US,Arkansas,United States
+152,AR,Logan ,US,Arkansas,United States
+153,AR,Lonoke ,US,Arkansas,United States
+154,AR,Madison ,US,Arkansas,United States
+155,AR,Marion ,US,Arkansas,United States
+156,AR,Miller ,US,Arkansas,United States
+157,AR,Mississippi ,US,Arkansas,United States
+158,AR,Monroe ,US,Arkansas,United States
+159,AR,Montgomery ,US,Arkansas,United States
+160,AR,Nevada ,US,Arkansas,United States
+161,AR,Newton ,US,Arkansas,United States
+162,AR,Ouachita ,US,Arkansas,United States
+163,AR,Perry ,US,Arkansas,United States
+164,AR,Phillips ,US,Arkansas,United States
+165,AR,Pike ,US,Arkansas,United States
+166,AR,Poinsett ,US,Arkansas,United States
+167,AR,Polk ,US,Arkansas,United States
+168,AR,Pope ,US,Arkansas,United States
+169,AR,Prairie ,US,Arkansas,United States
+170,AR,Pulaski ,US,Arkansas,United States
+171,AR,Randolph ,US,Arkansas,United States
+172,AR,St. Francis ,US,Arkansas,United States
+173,AR,Saline ,US,Arkansas,United States
+174,AR,Scott ,US,Arkansas,United States
+175,AR,Searcy ,US,Arkansas,United States
+176,AR,Sebastian ,US,Arkansas,United States
+177,AR,Sevier ,US,Arkansas,United States
+178,AR,Sharp ,US,Arkansas,United States
+179,AR,Stone ,US,Arkansas,United States
+180,AR,Union ,US,Arkansas,United States
+181,AR,Van Buren ,US,Arkansas,United States
+182,AR,Washington ,US,Arkansas,United States
+183,AR,White ,US,Arkansas,United States
+184,AR,Woodruff ,US,Arkansas,United States
+185,AR,Yell ,US,Arkansas,United States
+186,CA,Alameda ,US,California,United States
+187,CA,Alpine ,US,California,United States
+188,CA,Amador ,US,California,United States
+189,CA,Butte ,US,California,United States
+190,CA,Calaveras ,US,California,United States
+191,CA,Colusa ,US,California,United States
+192,CA,Contra Costa ,US,California,United States
+193,CA,Del Norte ,US,California,United States
+194,CA,El Dorado ,US,California,United States
+195,CA,Fresno ,US,California,United States
+196,CA,Glenn ,US,California,United States
+197,CA,Humboldt ,US,California,United States
+198,CA,Imperial ,US,California,United States
+199,CA,Inyo ,US,California,United States
+200,CA,Kern ,US,California,United States
+201,CA,Kings ,US,California,United States
+202,CA,Lake ,US,California,United States
+203,CA,Lassen ,US,California,United States
+204,CA,Los Angeles ,US,California,United States
+205,CA,Madera ,US,California,United States
+206,CA,Marin ,US,California,United States
+207,CA,Mariposa ,US,California,United States
+208,CA,Mendocino ,US,California,United States
+209,CA,Merced ,US,California,United States
+210,CA,Modoc ,US,California,United States
+211,CA,Mono ,US,California,United States
+212,CA,Monterey ,US,California,United States
+213,CA,Napa ,US,California,United States
+214,CA,Nevada ,US,California,United States
+215,CA,Orange ,US,California,United States
+216,CA,Placer ,US,California,United States
+217,CA,Plumas ,US,California,United States
+218,CA,Riverside ,US,California,United States
+219,CA,Sacramento ,US,California,United States
+220,CA,San Benito ,US,California,United States
+221,CA,San Bernardino ,US,California,United States
+222,CA,San Diego ,US,California,United States
+223,CA,San Francisco ,US,California,United States
+224,CA,San Joaquin ,US,California,United States
+225,CA,San Luis Obispo ,US,California,United States
+226,CA,San Mateo ,US,California,United States
+227,CA,Santa Barbara ,US,California,United States
+228,CA,Santa Clara ,US,California,United States
+229,CA,Santa Cruz ,US,California,United States
+230,CA,Shasta ,US,California,United States
+231,CA,Sierra ,US,California,United States
+232,CA,Siskiyou ,US,California,United States
+233,CA,Solano ,US,California,United States
+234,CA,Sonoma ,US,California,United States
+235,CA,Stanislaus ,US,California,United States
+236,CA,Sutter ,US,California,United States
+237,CA,Tehama ,US,California,United States
+238,CA,Trinity ,US,California,United States
+239,CA,Tulare ,US,California,United States
+240,CA,Tuolumne ,US,California,United States
+241,CA,Ventura ,US,California,United States
+242,CA,Yolo ,US,California,United States
+243,CA,Yuba ,US,California,United States
+244,CO,Adams ,US,Colorado,United States
+245,CO,Alamosa ,US,Colorado,United States
+246,CO,Arapahoe ,US,Colorado,United States
+247,CO,Archuleta ,US,Colorado,United States
+248,CO,Baca ,US,Colorado,United States
+249,CO,Bent ,US,Colorado,United States
+250,CO,Boulder ,US,Colorado,United States
+251,CO,Broomfield ,US,Colorado,United States
+252,CO,Chaffee ,US,Colorado,United States
+253,CO,Cheyenne ,US,Colorado,United States
+254,CO,Clear Creek ,US,Colorado,United States
+255,CO,Conejos ,US,Colorado,United States
+256,CO,Costilla ,US,Colorado,United States
+257,CO,Crowley ,US,Colorado,United States
+258,CO,Custer ,US,Colorado,United States
+259,CO,Delta ,US,Colorado,United States
+260,CO,Denver ,US,Colorado,United States
+261,CO,Dolores ,US,Colorado,United States
+262,CO,Douglas ,US,Colorado,United States
+263,CO,Eagle ,US,Colorado,United States
+264,CO,Elbert ,US,Colorado,United States
+265,CO,El Paso ,US,Colorado,United States
+266,CO,Fremont ,US,Colorado,United States
+267,CO,Garfield ,US,Colorado,United States
+268,CO,Gilpin ,US,Colorado,United States
+269,CO,Grand ,US,Colorado,United States
+270,CO,Gunnison ,US,Colorado,United States
+271,CO,Hinsdale ,US,Colorado,United States
+272,CO,Huerfano ,US,Colorado,United States
+273,CO,Jackson ,US,Colorado,United States
+274,CO,Jefferson ,US,Colorado,United States
+275,CO,Kiowa ,US,Colorado,United States
+276,CO,Kit Carson ,US,Colorado,United States
+277,CO,Lake ,US,Colorado,United States
+278,CO,La Plata ,US,Colorado,United States
+279,CO,Larimer ,US,Colorado,United States
+280,CO,Las Animas ,US,Colorado,United States
+281,CO,Lincoln ,US,Colorado,United States
+282,CO,Logan ,US,Colorado,United States
+283,CO,Mesa ,US,Colorado,United States
+284,CO,Mineral ,US,Colorado,United States
+285,CO,Moffat ,US,Colorado,United States
+286,CO,Montezuma ,US,Colorado,United States
+287,CO,Montrose ,US,Colorado,United States
+288,CO,Morgan ,US,Colorado,United States
+289,CO,Otero ,US,Colorado,United States
+290,CO,Ouray ,US,Colorado,United States
+291,CO,Park ,US,Colorado,United States
+292,CO,Phillips ,US,Colorado,United States
+293,CO,Pitkin ,US,Colorado,United States
+294,CO,Prowers ,US,Colorado,United States
+295,CO,Pueblo ,US,Colorado,United States
+296,CO,Rio Blanco ,US,Colorado,United States
+297,CO,Rio Grande ,US,Colorado,United States
+298,CO,Routt ,US,Colorado,United States
+299,CO,Saguache ,US,Colorado,United States
+300,CO,San Juan ,US,Colorado,United States
+301,CO,San Miguel ,US,Colorado,United States
+302,CO,Sedgwick ,US,Colorado,United States
+303,CO,Summit ,US,Colorado,United States
+304,CO,Teller ,US,Colorado,United States
+305,CO,Washington ,US,Colorado,United States
+306,CO,Weld ,US,Colorado,United States
+307,CO,Yuma ,US,Colorado,United States
+308,CT,Fairfield ,US,Connecticut,United States
+309,CT,Hartford ,US,Connecticut,United States
+310,CT,Litchfield ,US,Connecticut,United States
+311,CT,Middlesex ,US,Connecticut,United States
+312,CT,New Haven ,US,Connecticut,United States
+313,CT,New London ,US,Connecticut,United States
+314,CT,Tolland ,US,Connecticut,United States
+315,CT,Windham ,US,Connecticut,United States
+316,DE,Kent ,US,Delaware,United States
+317,DE,New Castle ,US,Delaware,United States
+318,DE,Sussex ,US,Delaware,United States
+319,DC,District of Columbia,US,District of Columbia,United States
+320,FL,Alachua ,US,Florida,United States
+321,FL,Baker ,US,Florida,United States
+322,FL,Bay ,US,Florida,United States
+323,FL,Bradford ,US,Florida,United States
+324,FL,Brevard ,US,Florida,United States
+325,FL,Broward ,US,Florida,United States
+326,FL,Calhoun ,US,Florida,United States
+327,FL,Charlotte ,US,Florida,United States
+328,FL,Citrus ,US,Florida,United States
+329,FL,Clay ,US,Florida,United States
+330,FL,Collier ,US,Florida,United States
+331,FL,Columbia ,US,Florida,United States
+332,FL,DeSoto ,US,Florida,United States
+333,FL,Dixie ,US,Florida,United States
+334,FL,Duval ,US,Florida,United States
+335,FL,Escambia ,US,Florida,United States
+336,FL,Flagler ,US,Florida,United States
+337,FL,Franklin ,US,Florida,United States
+338,FL,Gadsden ,US,Florida,United States
+339,FL,Gilchrist ,US,Florida,United States
+340,FL,Glades ,US,Florida,United States
+341,FL,Gulf ,US,Florida,United States
+342,FL,Hamilton ,US,Florida,United States
+343,FL,Hardee ,US,Florida,United States
+344,FL,Hendry ,US,Florida,United States
+345,FL,Hernando ,US,Florida,United States
+346,FL,Highlands ,US,Florida,United States
+347,FL,Hillsborough ,US,Florida,United States
+348,FL,Holmes ,US,Florida,United States
+349,FL,Indian River ,US,Florida,United States
+350,FL,Jackson ,US,Florida,United States
+351,FL,Jefferson ,US,Florida,United States
+352,FL,Lafayette ,US,Florida,United States
+353,FL,Lake ,US,Florida,United States
+354,FL,Lee ,US,Florida,United States
+355,FL,Leon ,US,Florida,United States
+356,FL,Levy ,US,Florida,United States
+357,FL,Liberty ,US,Florida,United States
+358,FL,Madison ,US,Florida,United States
+359,FL,Manatee ,US,Florida,United States
+360,FL,Marion ,US,Florida,United States
+361,FL,Martin ,US,Florida,United States
+362,FL,Miami-Dade ,US,Florida,United States
+363,FL,Monroe ,US,Florida,United States
+364,FL,Nassau ,US,Florida,United States
+365,FL,Okaloosa ,US,Florida,United States
+366,FL,Okeechobee ,US,Florida,United States
+367,FL,Orange ,US,Florida,United States
+368,FL,Osceola ,US,Florida,United States
+369,FL,Palm Beach ,US,Florida,United States
+370,FL,Pasco ,US,Florida,United States
+371,FL,Pinellas ,US,Florida,United States
+372,FL,Polk ,US,Florida,United States
+373,FL,Putnam ,US,Florida,United States
+374,FL,St. Johns ,US,Florida,United States
+375,FL,St. Lucie ,US,Florida,United States
+376,FL,Santa Rosa ,US,Florida,United States
+377,FL,Sarasota ,US,Florida,United States
+378,FL,Seminole ,US,Florida,United States
+379,FL,Sumter ,US,Florida,United States
+380,FL,Suwannee ,US,Florida,United States
+381,FL,Taylor ,US,Florida,United States
+382,FL,Union ,US,Florida,United States
+383,FL,Volusia ,US,Florida,United States
+384,FL,Wakulla ,US,Florida,United States
+385,FL,Walton ,US,Florida,United States
+386,FL,Washington ,US,Florida,United States
+387,GA,Appling ,US,Georgia,United States
+388,GA,Atkinson ,US,Georgia,United States
+389,GA,Bacon ,US,Georgia,United States
+390,GA,Baker ,US,Georgia,United States
+391,GA,Baldwin ,US,Georgia,United States
+392,GA,Banks ,US,Georgia,United States
+393,GA,Barrow ,US,Georgia,United States
+394,GA,Bartow ,US,Georgia,United States
+395,GA,Ben Hill ,US,Georgia,United States
+396,GA,Berrien ,US,Georgia,United States
+397,GA,Bibb ,US,Georgia,United States
+398,GA,Bleckley ,US,Georgia,United States
+399,GA,Brantley ,US,Georgia,United States
+400,GA,Brooks ,US,Georgia,United States
+401,GA,Bryan ,US,Georgia,United States
+402,GA,Bulloch ,US,Georgia,United States
+403,GA,Burke ,US,Georgia,United States
+404,GA,Butts ,US,Georgia,United States
+405,GA,Calhoun ,US,Georgia,United States
+406,GA,Camden ,US,Georgia,United States
+407,GA,Candler ,US,Georgia,United States
+408,GA,Carroll ,US,Georgia,United States
+409,GA,Catoosa ,US,Georgia,United States
+410,GA,Charlton ,US,Georgia,United States
+411,GA,Chatham ,US,Georgia,United States
+412,GA,Chattahoochee ,US,Georgia,United States
+413,GA,Chattooga ,US,Georgia,United States
+414,GA,Cherokee ,US,Georgia,United States
+415,GA,Clarke ,US,Georgia,United States
+416,GA,Clay ,US,Georgia,United States
+417,GA,Clayton ,US,Georgia,United States
+418,GA,Clinch ,US,Georgia,United States
+419,GA,Cobb ,US,Georgia,United States
+420,GA,Coffee ,US,Georgia,United States
+421,GA,Colquitt ,US,Georgia,United States
+422,GA,Columbia ,US,Georgia,United States
+423,GA,Cook ,US,Georgia,United States
+424,GA,Coweta ,US,Georgia,United States
+425,GA,Crawford ,US,Georgia,United States
+426,GA,Crisp ,US,Georgia,United States
+427,GA,Dade ,US,Georgia,United States
+428,GA,Dawson ,US,Georgia,United States
+429,GA,Decatur ,US,Georgia,United States
+430,GA,DeKalb ,US,Georgia,United States
+431,GA,Dodge ,US,Georgia,United States
+432,GA,Dooly ,US,Georgia,United States
+433,GA,Dougherty ,US,Georgia,United States
+434,GA,Douglas ,US,Georgia,United States
+435,GA,Early ,US,Georgia,United States
+436,GA,Echols ,US,Georgia,United States
+437,GA,Effingham ,US,Georgia,United States
+438,GA,Elbert ,US,Georgia,United States
+439,GA,Emanuel ,US,Georgia,United States
+440,GA,Evans ,US,Georgia,United States
+441,GA,Fannin ,US,Georgia,United States
+442,GA,Fayette ,US,Georgia,United States
+443,GA,Floyd ,US,Georgia,United States
+444,GA,Forsyth ,US,Georgia,United States
+445,GA,Franklin ,US,Georgia,United States
+446,GA,Fulton ,US,Georgia,United States
+447,GA,Gilmer ,US,Georgia,United States
+448,GA,Glascock ,US,Georgia,United States
+449,GA,Glynn ,US,Georgia,United States
+450,GA,Gordon ,US,Georgia,United States
+451,GA,Grady ,US,Georgia,United States
+452,GA,Greene ,US,Georgia,United States
+453,GA,Gwinnett ,US,Georgia,United States
+454,GA,Habersham ,US,Georgia,United States
+455,GA,Hall ,US,Georgia,United States
+456,GA,Hancock ,US,Georgia,United States
+457,GA,Haralson ,US,Georgia,United States
+458,GA,Harris ,US,Georgia,United States
+459,GA,Hart ,US,Georgia,United States
+460,GA,Heard ,US,Georgia,United States
+461,GA,Henry ,US,Georgia,United States
+462,GA,Houston ,US,Georgia,United States
+463,GA,Irwin ,US,Georgia,United States
+464,GA,Jackson ,US,Georgia,United States
+465,GA,Jasper ,US,Georgia,United States
+466,GA,Jeff Davis ,US,Georgia,United States
+467,GA,Jefferson ,US,Georgia,United States
+468,GA,Jenkins ,US,Georgia,United States
+469,GA,Johnson ,US,Georgia,United States
+470,GA,Jones ,US,Georgia,United States
+471,GA,Lamar ,US,Georgia,United States
+472,GA,Lanier ,US,Georgia,United States
+473,GA,Laurens ,US,Georgia,United States
+474,GA,Lee ,US,Georgia,United States
+475,GA,Liberty ,US,Georgia,United States
+476,GA,Lincoln ,US,Georgia,United States
+477,GA,Long ,US,Georgia,United States
+478,GA,Lowndes ,US,Georgia,United States
+479,GA,Lumpkin ,US,Georgia,United States
+480,GA,McDuffie ,US,Georgia,United States
+481,GA,McIntosh ,US,Georgia,United States
+482,GA,Macon ,US,Georgia,United States
+483,GA,Madison ,US,Georgia,United States
+484,GA,Marion ,US,Georgia,United States
+485,GA,Meriwether ,US,Georgia,United States
+486,GA,Miller ,US,Georgia,United States
+487,GA,Mitchell ,US,Georgia,United States
+488,GA,Monroe ,US,Georgia,United States
+489,GA,Montgomery ,US,Georgia,United States
+490,GA,Morgan ,US,Georgia,United States
+491,GA,Murray ,US,Georgia,United States
+492,GA,Muscogee ,US,Georgia,United States
+493,GA,Newton ,US,Georgia,United States
+494,GA,Oconee ,US,Georgia,United States
+495,GA,Oglethorpe ,US,Georgia,United States
+496,GA,Paulding ,US,Georgia,United States
+497,GA,Peach ,US,Georgia,United States
+498,GA,Pickens ,US,Georgia,United States
+499,GA,Pierce ,US,Georgia,United States
+500,GA,Pike ,US,Georgia,United States
+501,GA,Polk ,US,Georgia,United States
+502,GA,Pulaski ,US,Georgia,United States
+503,GA,Putnam ,US,Georgia,United States
+504,GA,Quitman ,US,Georgia,United States
+505,GA,Rabun ,US,Georgia,United States
+506,GA,Randolph ,US,Georgia,United States
+507,GA,Richmond ,US,Georgia,United States
+508,GA,Rockdale ,US,Georgia,United States
+509,GA,Schley ,US,Georgia,United States
+510,GA,Screven ,US,Georgia,United States
+511,GA,Seminole ,US,Georgia,United States
+512,GA,Spalding ,US,Georgia,United States
+513,GA,Stephens ,US,Georgia,United States
+514,GA,Stewart ,US,Georgia,United States
+515,GA,Sumter ,US,Georgia,United States
+516,GA,Talbot ,US,Georgia,United States
+517,GA,Taliaferro ,US,Georgia,United States
+518,GA,Tattnall ,US,Georgia,United States
+519,GA,Taylor ,US,Georgia,United States
+520,GA,Telfair ,US,Georgia,United States
+521,GA,Terrell ,US,Georgia,United States
+522,GA,Thomas ,US,Georgia,United States
+523,GA,Tift ,US,Georgia,United States
+524,GA,Toombs ,US,Georgia,United States
+525,GA,Towns ,US,Georgia,United States
+526,GA,Treutlen ,US,Georgia,United States
+527,GA,Troup ,US,Georgia,United States
+528,GA,Turner ,US,Georgia,United States
+529,GA,Twiggs ,US,Georgia,United States
+530,GA,Union ,US,Georgia,United States
+531,GA,Upson ,US,Georgia,United States
+532,GA,Walker ,US,Georgia,United States
+533,GA,Walton ,US,Georgia,United States
+534,GA,Ware ,US,Georgia,United States
+535,GA,Warren ,US,Georgia,United States
+536,GA,Washington ,US,Georgia,United States
+537,GA,Wayne ,US,Georgia,United States
+538,GA,Webster ,US,Georgia,United States
+539,GA,Wheeler ,US,Georgia,United States
+540,GA,White ,US,Georgia,United States
+541,GA,Whitfield ,US,Georgia,United States
+542,GA,Wilcox ,US,Georgia,United States
+543,GA,Wilkes ,US,Georgia,United States
+544,GA,Wilkinson ,US,Georgia,United States
+545,GA,Worth ,US,Georgia,United States
+546,HI,Hawaii ,US,Hawaii,United States
+547,HI,Honolulu ,US,Hawaii,United States
+548,HI,Kalawao ,US,Hawaii,United States
+549,HI,Kauai ,US,Hawaii,United States
+550,HI,Maui ,US,Hawaii,United States
+551,ID,Ada ,US,Idaho,United States
+552,ID,Adams ,US,Idaho,United States
+553,ID,Bannock ,US,Idaho,United States
+554,ID,Bear Lake ,US,Idaho,United States
+555,ID,Benewah ,US,Idaho,United States
+556,ID,Bingham ,US,Idaho,United States
+557,ID,Blaine ,US,Idaho,United States
+558,ID,Boise ,US,Idaho,United States
+559,ID,Bonner ,US,Idaho,United States
+560,ID,Bonneville ,US,Idaho,United States
+561,ID,Boundary ,US,Idaho,United States
+562,ID,Butte ,US,Idaho,United States
+563,ID,Camas ,US,Idaho,United States
+564,ID,Canyon ,US,Idaho,United States
+565,ID,Caribou ,US,Idaho,United States
+566,ID,Cassia ,US,Idaho,United States
+567,ID,Clark ,US,Idaho,United States
+568,ID,Clearwater ,US,Idaho,United States
+569,ID,Custer ,US,Idaho,United States
+570,ID,Elmore ,US,Idaho,United States
+571,ID,Franklin ,US,Idaho,United States
+572,ID,Fremont ,US,Idaho,United States
+573,ID,Gem ,US,Idaho,United States
+574,ID,Gooding ,US,Idaho,United States
+575,ID,Idaho ,US,Idaho,United States
+576,ID,Jefferson ,US,Idaho,United States
+577,ID,Jerome ,US,Idaho,United States
+578,ID,Kootenai ,US,Idaho,United States
+579,ID,Latah ,US,Idaho,United States
+580,ID,Lemhi ,US,Idaho,United States
+581,ID,Lewis ,US,Idaho,United States
+582,ID,Lincoln ,US,Idaho,United States
+583,ID,Madison ,US,Idaho,United States
+584,ID,Minidoka ,US,Idaho,United States
+585,ID,Nez Perce ,US,Idaho,United States
+586,ID,Oneida ,US,Idaho,United States
+587,ID,Owyhee ,US,Idaho,United States
+588,ID,Payette ,US,Idaho,United States
+589,ID,Power ,US,Idaho,United States
+590,ID,Shoshone ,US,Idaho,United States
+591,ID,Teton ,US,Idaho,United States
+592,ID,Twin Falls ,US,Idaho,United States
+593,ID,Valley ,US,Idaho,United States
+594,ID,Washington ,US,Idaho,United States
+595,IL,Adams ,US,Illinois,United States
+596,IL,Alexander ,US,Illinois,United States
+597,IL,Bond ,US,Illinois,United States
+598,IL,Boone ,US,Illinois,United States
+599,IL,Brown ,US,Illinois,United States
+600,IL,Bureau ,US,Illinois,United States
+601,IL,Calhoun ,US,Illinois,United States
+602,IL,Carroll ,US,Illinois,United States
+603,IL,Cass ,US,Illinois,United States
+604,IL,Champaign ,US,Illinois,United States
+605,IL,Christian ,US,Illinois,United States
+606,IL,Clark ,US,Illinois,United States
+607,IL,Clay ,US,Illinois,United States
+608,IL,Clinton ,US,Illinois,United States
+609,IL,Coles ,US,Illinois,United States
+610,IL,Cook ,US,Illinois,United States
+611,IL,Crawford ,US,Illinois,United States
+612,IL,Cumberland ,US,Illinois,United States
+613,IL,DeKalb ,US,Illinois,United States
+614,IL,De Witt ,US,Illinois,United States
+615,IL,Douglas ,US,Illinois,United States
+616,IL,DuPage ,US,Illinois,United States
+617,IL,Edgar ,US,Illinois,United States
+618,IL,Edwards ,US,Illinois,United States
+619,IL,Effingham ,US,Illinois,United States
+620,IL,Fayette ,US,Illinois,United States
+621,IL,Ford ,US,Illinois,United States
+622,IL,Franklin ,US,Illinois,United States
+623,IL,Fulton ,US,Illinois,United States
+624,IL,Gallatin ,US,Illinois,United States
+625,IL,Greene ,US,Illinois,United States
+626,IL,Grundy ,US,Illinois,United States
+627,IL,Hamilton ,US,Illinois,United States
+628,IL,Hancock ,US,Illinois,United States
+629,IL,Hardin ,US,Illinois,United States
+630,IL,Henderson ,US,Illinois,United States
+631,IL,Henry ,US,Illinois,United States
+632,IL,Iroquois ,US,Illinois,United States
+633,IL,Jackson ,US,Illinois,United States
+634,IL,Jasper ,US,Illinois,United States
+635,IL,Jefferson ,US,Illinois,United States
+636,IL,Jersey ,US,Illinois,United States
+637,IL,Jo Daviess ,US,Illinois,United States
+638,IL,Johnson ,US,Illinois,United States
+639,IL,Kane ,US,Illinois,United States
+640,IL,Kankakee ,US,Illinois,United States
+641,IL,Kendall ,US,Illinois,United States
+642,IL,Knox ,US,Illinois,United States
+643,IL,Lake ,US,Illinois,United States
+644,IL,LaSalle ,US,Illinois,United States
+645,IL,Lawrence ,US,Illinois,United States
+646,IL,Lee ,US,Illinois,United States
+647,IL,Livingston ,US,Illinois,United States
+648,IL,Logan ,US,Illinois,United States
+649,IL,McDonough ,US,Illinois,United States
+650,IL,McHenry ,US,Illinois,United States
+651,IL,McLean ,US,Illinois,United States
+652,IL,Macon ,US,Illinois,United States
+653,IL,Macoupin ,US,Illinois,United States
+654,IL,Madison ,US,Illinois,United States
+655,IL,Marion ,US,Illinois,United States
+656,IL,Marshall ,US,Illinois,United States
+657,IL,Mason ,US,Illinois,United States
+658,IL,Massac ,US,Illinois,United States
+659,IL,Menard ,US,Illinois,United States
+660,IL,Mercer ,US,Illinois,United States
+661,IL,Monroe ,US,Illinois,United States
+662,IL,Montgomery ,US,Illinois,United States
+663,IL,Morgan ,US,Illinois,United States
+664,IL,Moultrie ,US,Illinois,United States
+665,IL,Ogle ,US,Illinois,United States
+666,IL,Peoria ,US,Illinois,United States
+667,IL,Perry ,US,Illinois,United States
+668,IL,Piatt ,US,Illinois,United States
+669,IL,Pike ,US,Illinois,United States
+670,IL,Pope ,US,Illinois,United States
+671,IL,Pulaski ,US,Illinois,United States
+672,IL,Putnam ,US,Illinois,United States
+673,IL,Randolph ,US,Illinois,United States
+674,IL,Richland ,US,Illinois,United States
+675,IL,Rock  ,US,Illinois,United States
+676,IL,St. Clair ,US,Illinois,United States
+677,IL,Saline ,US,Illinois,United States
+678,IL,Sangamon ,US,Illinois,United States
+679,IL,Schuyler ,US,Illinois,United States
+680,IL,Scott ,US,Illinois,United States
+681,IL,Shelby ,US,Illinois,United States
+682,IL,Stark ,US,Illinois,United States
+683,IL,Stephenson ,US,Illinois,United States
+684,IL,Tazewell ,US,Illinois,United States
+685,IL,Union ,US,Illinois,United States
+686,IL,Vermilion ,US,Illinois,United States
+687,IL,Wabash ,US,Illinois,United States
+688,IL,Warren ,US,Illinois,United States
+689,IL,Washington ,US,Illinois,United States
+690,IL,Wayne ,US,Illinois,United States
+691,IL,White ,US,Illinois,United States
+692,IL,Whiteside ,US,Illinois,United States
+693,IL,Will ,US,Illinois,United States
+694,IL,Williamson ,US,Illinois,United States
+695,IL,Winnebago ,US,Illinois,United States
+696,IL,Woodford ,US,Illinois,United States
+697,IN,Adams ,US,Indiana,United States
+698,IN,Allen ,US,Indiana,United States
+699,IN,Bartholomew ,US,Indiana,United States
+700,IN,Benton ,US,Indiana,United States
+701,IN,Blackford ,US,Indiana,United States
+702,IN,Boone ,US,Indiana,United States
+703,IN,Brown ,US,Indiana,United States
+704,IN,Carroll ,US,Indiana,United States
+705,IN,Cass ,US,Indiana,United States
+706,IN,Clark ,US,Indiana,United States
+707,IN,Clay ,US,Indiana,United States
+708,IN,Clinton ,US,Indiana,United States
+709,IN,Crawford ,US,Indiana,United States
+710,IN,Daviess ,US,Indiana,United States
+711,IN,Dearborn ,US,Indiana,United States
+712,IN,Decatur ,US,Indiana,United States
+713,IN,DeKalb ,US,Indiana,United States
+714,IN,Delaware ,US,Indiana,United States
+715,IN,Dubois ,US,Indiana,United States
+716,IN,Elkhart ,US,Indiana,United States
+717,IN,Fayette ,US,Indiana,United States
+718,IN,Floyd ,US,Indiana,United States
+719,IN,Fountain ,US,Indiana,United States
+720,IN,Franklin ,US,Indiana,United States
+721,IN,Fulton ,US,Indiana,United States
+722,IN,Gibson ,US,Indiana,United States
+723,IN,Grant ,US,Indiana,United States
+724,IN,Greene ,US,Indiana,United States
+725,IN,Hamilton ,US,Indiana,United States
+726,IN,Hancock ,US,Indiana,United States
+727,IN,Harrison ,US,Indiana,United States
+728,IN,Hendricks ,US,Indiana,United States
+729,IN,Henry ,US,Indiana,United States
+730,IN,Howard ,US,Indiana,United States
+731,IN,Huntington ,US,Indiana,United States
+732,IN,Jackson ,US,Indiana,United States
+733,IN,Jasper ,US,Indiana,United States
+734,IN,Jay ,US,Indiana,United States
+735,IN,Jefferson ,US,Indiana,United States
+736,IN,Jennings ,US,Indiana,United States
+737,IN,Johnson ,US,Indiana,United States
+738,IN,Knox ,US,Indiana,United States
+739,IN,Kosciusko ,US,Indiana,United States
+740,IN,LaGrange ,US,Indiana,United States
+741,IN,Lake ,US,Indiana,United States
+742,IN,LaPorte ,US,Indiana,United States
+743,IN,Lawrence ,US,Indiana,United States
+744,IN,Madison ,US,Indiana,United States
+745,IN,Marion ,US,Indiana,United States
+746,IN,Marshall ,US,Indiana,United States
+747,IN,Martin ,US,Indiana,United States
+748,IN,Miami ,US,Indiana,United States
+749,IN,Monroe ,US,Indiana,United States
+750,IN,Montgomery ,US,Indiana,United States
+751,IN,Morgan ,US,Indiana,United States
+752,IN,Newton ,US,Indiana,United States
+753,IN,Noble ,US,Indiana,United States
+754,IN,Ohio ,US,Indiana,United States
+755,IN,Orange ,US,Indiana,United States
+756,IN,Owen ,US,Indiana,United States
+757,IN,Parke ,US,Indiana,United States
+758,IN,Perry ,US,Indiana,United States
+759,IN,Pike ,US,Indiana,United States
+760,IN,Porter ,US,Indiana,United States
+761,IN,Posey ,US,Indiana,United States
+762,IN,Pulaski ,US,Indiana,United States
+763,IN,Putnam ,US,Indiana,United States
+764,IN,Randolph ,US,Indiana,United States
+765,IN,Ripley ,US,Indiana,United States
+766,IN,Rush ,US,Indiana,United States
+767,IN,St. Joseph ,US,Indiana,United States
+768,IN,Scott ,US,Indiana,United States
+769,IN,Shelby ,US,Indiana,United States
+770,IN,Spencer ,US,Indiana,United States
+771,IN,Starke ,US,Indiana,United States
+772,IN,Steuben ,US,Indiana,United States
+773,IN,Sullivan ,US,Indiana,United States
+774,IN,Switzerland ,US,Indiana,United States
+775,IN,Tippecanoe ,US,Indiana,United States
+776,IN,Tipton ,US,Indiana,United States
+777,IN,Union ,US,Indiana,United States
+778,IN,Vanderburgh ,US,Indiana,United States
+779,IN,Vermillion ,US,Indiana,United States
+780,IN,Vigo ,US,Indiana,United States
+781,IN,Wabash ,US,Indiana,United States
+782,IN,Warren ,US,Indiana,United States
+783,IN,Warrick ,US,Indiana,United States
+784,IN,Washington ,US,Indiana,United States
+785,IN,Wayne ,US,Indiana,United States
+786,IN,Wells ,US,Indiana,United States
+787,IN,White ,US,Indiana,United States
+788,IN,Whitley ,US,Indiana,United States
+789,IA,Adair ,US,Iowa,United States
+790,IA,Adams ,US,Iowa,United States
+791,IA,Allamakee ,US,Iowa,United States
+792,IA,Appanoose ,US,Iowa,United States
+793,IA,Audubon ,US,Iowa,United States
+794,IA,Benton ,US,Iowa,United States
+795,IA,Black Hawk ,US,Iowa,United States
+796,IA,Boone ,US,Iowa,United States
+797,IA,Bremer ,US,Iowa,United States
+798,IA,Buchanan ,US,Iowa,United States
+799,IA,Buena Vista ,US,Iowa,United States
+800,IA,Butler ,US,Iowa,United States
+801,IA,Calhoun ,US,Iowa,United States
+802,IA,Carroll ,US,Iowa,United States
+803,IA,Cass ,US,Iowa,United States
+804,IA,Cedar ,US,Iowa,United States
+805,IA,Cerro Gordo ,US,Iowa,United States
+806,IA,Cherokee ,US,Iowa,United States
+807,IA,Chickasaw ,US,Iowa,United States
+808,IA,Clarke ,US,Iowa,United States
+809,IA,Clay ,US,Iowa,United States
+810,IA,Clayton ,US,Iowa,United States
+811,IA,Clinton ,US,Iowa,United States
+812,IA,Crawford ,US,Iowa,United States
+813,IA,Dallas ,US,Iowa,United States
+814,IA,Davis ,US,Iowa,United States
+815,IA,Decatur ,US,Iowa,United States
+816,IA,Delaware ,US,Iowa,United States
+817,IA,Des Moines ,US,Iowa,United States
+818,IA,Dickinson ,US,Iowa,United States
+819,IA,Dubuque ,US,Iowa,United States
+820,IA,Emmet ,US,Iowa,United States
+821,IA,Fayette ,US,Iowa,United States
+822,IA,Floyd ,US,Iowa,United States
+823,IA,Franklin ,US,Iowa,United States
+824,IA,Fremont ,US,Iowa,United States
+825,IA,Greene ,US,Iowa,United States
+826,IA,Grundy ,US,Iowa,United States
+827,IA,Guthrie ,US,Iowa,United States
+828,IA,Hamilton ,US,Iowa,United States
+829,IA,Hancock ,US,Iowa,United States
+830,IA,Hardin ,US,Iowa,United States
+831,IA,Harrison ,US,Iowa,United States
+832,IA,Henry ,US,Iowa,United States
+833,IA,Howard ,US,Iowa,United States
+834,IA,Humboldt ,US,Iowa,United States
+835,IA,Ida ,US,Iowa,United States
+836,IA,Iowa ,US,Iowa,United States
+837,IA,Jackson ,US,Iowa,United States
+838,IA,Jasper ,US,Iowa,United States
+839,IA,Jefferson ,US,Iowa,United States
+840,IA,Johnson ,US,Iowa,United States
+841,IA,Jones ,US,Iowa,United States
+842,IA,Keokuk ,US,Iowa,United States
+843,IA,Kossuth ,US,Iowa,United States
+844,IA,Lee ,US,Iowa,United States
+845,IA,Linn ,US,Iowa,United States
+846,IA,Louisa ,US,Iowa,United States
+847,IA,Lucas ,US,Iowa,United States
+848,IA,Lyon ,US,Iowa,United States
+849,IA,Madison ,US,Iowa,United States
+850,IA,Mahaska ,US,Iowa,United States
+851,IA,Marion ,US,Iowa,United States
+852,IA,Marshall ,US,Iowa,United States
+853,IA,Mills ,US,Iowa,United States
+854,IA,Mitchell ,US,Iowa,United States
+855,IA,Monona ,US,Iowa,United States
+856,IA,Monroe ,US,Iowa,United States
+857,IA,Montgomery ,US,Iowa,United States
+858,IA,Muscatine ,US,Iowa,United States
+859,IA,O'Brien ,US,Iowa,United States
+860,IA,Osceola ,US,Iowa,United States
+861,IA,Page ,US,Iowa,United States
+862,IA,Palo Alto ,US,Iowa,United States
+863,IA,Plymouth ,US,Iowa,United States
+864,IA,Pocahontas ,US,Iowa,United States
+865,IA,Polk ,US,Iowa,United States
+866,IA,Pottawattamie ,US,Iowa,United States
+867,IA,Poweshiek ,US,Iowa,United States
+868,IA,Ringgold ,US,Iowa,United States
+869,IA,Sac ,US,Iowa,United States
+870,IA,Scott ,US,Iowa,United States
+871,IA,Shelby ,US,Iowa,United States
+872,IA,Sioux ,US,Iowa,United States
+873,IA,Story ,US,Iowa,United States
+874,IA,Tama ,US,Iowa,United States
+875,IA,Taylor ,US,Iowa,United States
+876,IA,Union ,US,Iowa,United States
+877,IA,Van Buren ,US,Iowa,United States
+878,IA,Wapello ,US,Iowa,United States
+879,IA,Warren ,US,Iowa,United States
+880,IA,Washington ,US,Iowa,United States
+881,IA,Wayne ,US,Iowa,United States
+882,IA,Webster ,US,Iowa,United States
+883,IA,Winnebago ,US,Iowa,United States
+884,IA,Winneshiek ,US,Iowa,United States
+885,IA,Woodbury ,US,Iowa,United States
+886,IA,Worth ,US,Iowa,United States
+887,IA,Wright ,US,Iowa,United States
+888,KS,Allen ,US,Kansas,United States
+889,KS,Anderson ,US,Kansas,United States
+890,KS,Atchison ,US,Kansas,United States
+891,KS,Barber ,US,Kansas,United States
+892,KS,Barton ,US,Kansas,United States
+893,KS,Bourbon ,US,Kansas,United States
+894,KS,Brown ,US,Kansas,United States
+895,KS,Butler ,US,Kansas,United States
+896,KS,Chase ,US,Kansas,United States
+897,KS,Chautauqua ,US,Kansas,United States
+898,KS,Cherokee ,US,Kansas,United States
+899,KS,Cheyenne ,US,Kansas,United States
+900,KS,Clark ,US,Kansas,United States
+901,KS,Clay ,US,Kansas,United States
+902,KS,Cloud ,US,Kansas,United States
+903,KS,Coffey ,US,Kansas,United States
+904,KS,Comanche ,US,Kansas,United States
+905,KS,Cowley ,US,Kansas,United States
+906,KS,Crawford ,US,Kansas,United States
+907,KS,Decatur ,US,Kansas,United States
+908,KS,Dickinson ,US,Kansas,United States
+909,KS,Doniphan ,US,Kansas,United States
+910,KS,Douglas ,US,Kansas,United States
+911,KS,Edwards ,US,Kansas,United States
+912,KS,Elk ,US,Kansas,United States
+913,KS,Ellis ,US,Kansas,United States
+914,KS,Ellsworth ,US,Kansas,United States
+915,KS,Finney ,US,Kansas,United States
+916,KS,Ford ,US,Kansas,United States
+917,KS,Franklin ,US,Kansas,United States
+918,KS,Geary ,US,Kansas,United States
+919,KS,Gove ,US,Kansas,United States
+920,KS,Graham ,US,Kansas,United States
+921,KS,Grant ,US,Kansas,United States
+922,KS,Gray ,US,Kansas,United States
+923,KS,Greeley ,US,Kansas,United States
+924,KS,Greenwood ,US,Kansas,United States
+925,KS,Hamilton ,US,Kansas,United States
+926,KS,Harper ,US,Kansas,United States
+927,KS,Harvey ,US,Kansas,United States
+928,KS,Haskell ,US,Kansas,United States
+929,KS,Hodgeman ,US,Kansas,United States
+930,KS,Jackson ,US,Kansas,United States
+931,KS,Jefferson ,US,Kansas,United States
+932,KS,Jewell ,US,Kansas,United States
+933,KS,Johnson ,US,Kansas,United States
+934,KS,Kearny ,US,Kansas,United States
+935,KS,Kingman ,US,Kansas,United States
+936,KS,Kiowa ,US,Kansas,United States
+937,KS,Labette ,US,Kansas,United States
+938,KS,Lane ,US,Kansas,United States
+939,KS,Leavenworth ,US,Kansas,United States
+940,KS,Lincoln ,US,Kansas,United States
+941,KS,Linn ,US,Kansas,United States
+942,KS,Logan ,US,Kansas,United States
+943,KS,Lyon ,US,Kansas,United States
+944,KS,McPherson ,US,Kansas,United States
+945,KS,Marion ,US,Kansas,United States
+946,KS,Marshall ,US,Kansas,United States
+947,KS,Meade ,US,Kansas,United States
+948,KS,Miami ,US,Kansas,United States
+949,KS,Mitchell ,US,Kansas,United States
+950,KS,Montgomery ,US,Kansas,United States
+951,KS,Morris ,US,Kansas,United States
+952,KS,Morton ,US,Kansas,United States
+953,KS,Nemaha ,US,Kansas,United States
+954,KS,Neosho ,US,Kansas,United States
+955,KS,Ness ,US,Kansas,United States
+956,KS,Norton ,US,Kansas,United States
+957,KS,Osage ,US,Kansas,United States
+958,KS,Osborne ,US,Kansas,United States
+959,KS,Ottawa ,US,Kansas,United States
+960,KS,Pawnee ,US,Kansas,United States
+961,KS,Phillips ,US,Kansas,United States
+962,KS,Pottawatomie ,US,Kansas,United States
+963,KS,Pratt ,US,Kansas,United States
+964,KS,Rawlins ,US,Kansas,United States
+965,KS,Reno ,US,Kansas,United States
+966,KS,Republic ,US,Kansas,United States
+967,KS,Rice ,US,Kansas,United States
+968,KS,Riley ,US,Kansas,United States
+969,KS,Rooks ,US,Kansas,United States
+970,KS,Rush ,US,Kansas,United States
+971,KS,Russell ,US,Kansas,United States
+972,KS,Saline ,US,Kansas,United States
+973,KS,Scott ,US,Kansas,United States
+974,KS,Sedgwick ,US,Kansas,United States
+975,KS,Seward ,US,Kansas,United States
+976,KS,Shawnee ,US,Kansas,United States
+977,KS,Sheridan ,US,Kansas,United States
+978,KS,Sherman ,US,Kansas,United States
+979,KS,Smith ,US,Kansas,United States
+980,KS,Stafford ,US,Kansas,United States
+981,KS,Stanton ,US,Kansas,United States
+982,KS,Stevens ,US,Kansas,United States
+983,KS,Sumner ,US,Kansas,United States
+984,KS,Thomas ,US,Kansas,United States
+985,KS,Trego ,US,Kansas,United States
+986,KS,Wabaunsee ,US,Kansas,United States
+987,KS,Wallace ,US,Kansas,United States
+988,KS,Washington ,US,Kansas,United States
+989,KS,Wichita ,US,Kansas,United States
+990,KS,Wilson ,US,Kansas,United States
+991,KS,Woodson ,US,Kansas,United States
+992,KS,Wyandotte ,US,Kansas,United States
+993,KY,Adair ,US,Kentucky,United States
+994,KY,Allen ,US,Kentucky,United States
+995,KY,Anderson ,US,Kentucky,United States
+996,KY,Ballard ,US,Kentucky,United States
+997,KY,Barren ,US,Kentucky,United States
+998,KY,Bath ,US,Kentucky,United States
+999,KY,Bell ,US,Kentucky,United States
+1000,KY,Boone ,US,Kentucky,United States
+1001,KY,Bourbon ,US,Kentucky,United States
+1002,KY,Boyd ,US,Kentucky,United States
+1003,KY,Boyle ,US,Kentucky,United States
+1004,KY,Bracken ,US,Kentucky,United States
+1005,KY,Breathitt ,US,Kentucky,United States
+1006,KY,Breckinridge ,US,Kentucky,United States
+1007,KY,Bullitt ,US,Kentucky,United States
+1008,KY,Butler ,US,Kentucky,United States
+1009,KY,Caldwell ,US,Kentucky,United States
+1010,KY,Calloway ,US,Kentucky,United States
+1011,KY,Campbell ,US,Kentucky,United States
+1012,KY,Carlisle ,US,Kentucky,United States
+1013,KY,Carroll ,US,Kentucky,United States
+1014,KY,Carter ,US,Kentucky,United States
+1015,KY,Casey ,US,Kentucky,United States
+1016,KY,Christian ,US,Kentucky,United States
+1017,KY,Clark ,US,Kentucky,United States
+1018,KY,Clay ,US,Kentucky,United States
+1019,KY,Clinton ,US,Kentucky,United States
+1020,KY,Crittenden ,US,Kentucky,United States
+1021,KY,Cumberland ,US,Kentucky,United States
+1022,KY,Daviess ,US,Kentucky,United States
+1023,KY,Edmonson ,US,Kentucky,United States
+1024,KY,Elliott ,US,Kentucky,United States
+1025,KY,Estill ,US,Kentucky,United States
+1026,KY,Fayette ,US,Kentucky,United States
+1027,KY,Fleming ,US,Kentucky,United States
+1028,KY,Floyd ,US,Kentucky,United States
+1029,KY,Franklin ,US,Kentucky,United States
+1030,KY,Fulton ,US,Kentucky,United States
+1031,KY,Gallatin ,US,Kentucky,United States
+1032,KY,Garrard ,US,Kentucky,United States
+1033,KY,Grant ,US,Kentucky,United States
+1034,KY,Graves ,US,Kentucky,United States
+1035,KY,Grayson ,US,Kentucky,United States
+1036,KY,Green ,US,Kentucky,United States
+1037,KY,Greenup ,US,Kentucky,United States
+1038,KY,Hancock ,US,Kentucky,United States
+1039,KY,Hardin ,US,Kentucky,United States
+1040,KY,Harlan ,US,Kentucky,United States
+1041,KY,Harrison ,US,Kentucky,United States
+1042,KY,Hart ,US,Kentucky,United States
+1043,KY,Henderson ,US,Kentucky,United States
+1044,KY,Henry ,US,Kentucky,United States
+1045,KY,Hickman ,US,Kentucky,United States
+1046,KY,Hopkins ,US,Kentucky,United States
+1047,KY,Jackson ,US,Kentucky,United States
+1048,KY,Jefferson ,US,Kentucky,United States
+1049,KY,Jessamine ,US,Kentucky,United States
+1050,KY,Johnson ,US,Kentucky,United States
+1051,KY,Kenton ,US,Kentucky,United States
+1052,KY,Knott ,US,Kentucky,United States
+1053,KY,Knox ,US,Kentucky,United States
+1054,KY,Larue ,US,Kentucky,United States
+1055,KY,Laurel ,US,Kentucky,United States
+1056,KY,Lawrence ,US,Kentucky,United States
+1057,KY,Lee ,US,Kentucky,United States
+1058,KY,Leslie ,US,Kentucky,United States
+1059,KY,Letcher ,US,Kentucky,United States
+1060,KY,Lewis ,US,Kentucky,United States
+1061,KY,Lincoln ,US,Kentucky,United States
+1062,KY,Livingston ,US,Kentucky,United States
+1063,KY,Logan ,US,Kentucky,United States
+1064,KY,Lyon ,US,Kentucky,United States
+1065,KY,McCracken ,US,Kentucky,United States
+1066,KY,McCreary ,US,Kentucky,United States
+1067,KY,McLean ,US,Kentucky,United States
+1068,KY,Madison ,US,Kentucky,United States
+1069,KY,Magoffin ,US,Kentucky,United States
+1070,KY,Marion ,US,Kentucky,United States
+1071,KY,Marshall ,US,Kentucky,United States
+1072,KY,Martin ,US,Kentucky,United States
+1073,KY,Mason ,US,Kentucky,United States
+1074,KY,Meade ,US,Kentucky,United States
+1075,KY,Menifee ,US,Kentucky,United States
+1076,KY,Mercer ,US,Kentucky,United States
+1077,KY,Metcalfe ,US,Kentucky,United States
+1078,KY,Monroe ,US,Kentucky,United States
+1079,KY,Montgomery ,US,Kentucky,United States
+1080,KY,Morgan ,US,Kentucky,United States
+1081,KY,Muhlenberg ,US,Kentucky,United States
+1082,KY,Nelson ,US,Kentucky,United States
+1083,KY,Nicholas ,US,Kentucky,United States
+1084,KY,Ohio ,US,Kentucky,United States
+1085,KY,Oldham ,US,Kentucky,United States
+1086,KY,Owen ,US,Kentucky,United States
+1087,KY,Owsley ,US,Kentucky,United States
+1088,KY,Pendleton ,US,Kentucky,United States
+1089,KY,Perry ,US,Kentucky,United States
+1090,KY,Pike ,US,Kentucky,United States
+1091,KY,Powell ,US,Kentucky,United States
+1092,KY,Pulaski ,US,Kentucky,United States
+1093,KY,Robertson ,US,Kentucky,United States
+1094,KY,Rockcastle ,US,Kentucky,United States
+1095,KY,Rowan ,US,Kentucky,United States
+1096,KY,Russell ,US,Kentucky,United States
+1097,KY,Scott ,US,Kentucky,United States
+1098,KY,Shelby ,US,Kentucky,United States
+1099,KY,Simpson ,US,Kentucky,United States
+1100,KY,Spencer ,US,Kentucky,United States
+1101,KY,Taylor ,US,Kentucky,United States
+1102,KY,Todd ,US,Kentucky,United States
+1103,KY,Trigg ,US,Kentucky,United States
+1104,KY,Trimble ,US,Kentucky,United States
+1105,KY,Union ,US,Kentucky,United States
+1106,KY,Warren ,US,Kentucky,United States
+1107,KY,Washington ,US,Kentucky,United States
+1108,KY,Wayne ,US,Kentucky,United States
+1109,KY,Webster ,US,Kentucky,United States
+1110,KY,Whitley ,US,Kentucky,United States
+1111,KY,Wolfe ,US,Kentucky,United States
+1112,KY,Woodford ,US,Kentucky,United States
+1113,LA,Acadia Parish,US,Louisiana,United States
+1114,LA,Allen Parish,US,Louisiana,United States
+1115,LA,Ascension Parish,US,Louisiana,United States
+1116,LA,Assumption Parish,US,Louisiana,United States
+1117,LA,Avoyelles Parish,US,Louisiana,United States
+1118,LA,Beauregard Parish,US,Louisiana,United States
+1119,LA,Bienville Parish,US,Louisiana,United States
+1120,LA,Bossier Parish,US,Louisiana,United States
+1121,LA,Caddo Parish,US,Louisiana,United States
+1122,LA,Calcasieu Parish,US,Louisiana,United States
+1123,LA,Caldwell Parish,US,Louisiana,United States
+1124,LA,Cameron Parish,US,Louisiana,United States
+1125,LA,Catahoula Parish,US,Louisiana,United States
+1126,LA,Claiborne Parish,US,Louisiana,United States
+1127,LA,Concordia Parish,US,Louisiana,United States
+1128,LA,De Soto Parish,US,Louisiana,United States
+1129,LA,East Baton Rouge Parish,US,Louisiana,United States
+1130,LA,East Carroll Parish,US,Louisiana,United States
+1131,LA,East Feliciana Parish,US,Louisiana,United States
+1132,LA,Evangeline Parish,US,Louisiana,United States
+1133,LA,Franklin Parish,US,Louisiana,United States
+1134,LA,Grant Parish,US,Louisiana,United States
+1135,LA,Iberia Parish,US,Louisiana,United States
+1136,LA,Iberville Parish,US,Louisiana,United States
+1137,LA,Jackson Parish,US,Louisiana,United States
+1138,LA,Jefferson Parish,US,Louisiana,United States
+1139,LA,Jefferson Davis Parish,US,Louisiana,United States
+1140,LA,Lafayette Parish,US,Louisiana,United States
+1141,LA,Lafourche Parish,US,Louisiana,United States
+1142,LA,La Salle Parish,US,Louisiana,United States
+1143,LA,Lincoln Parish,US,Louisiana,United States
+1144,LA,Livingston Parish,US,Louisiana,United States
+1145,LA,Madison Parish,US,Louisiana,United States
+1146,LA,Morehouse Parish,US,Louisiana,United States
+1147,LA,Natchitoches Parish,US,Louisiana,United States
+1148,LA,Orleans Parish,US,Louisiana,United States
+1149,LA,Ouachita Parish,US,Louisiana,United States
+1150,LA,Plaquemines Parish,US,Louisiana,United States
+1151,LA,Pointe Coupee Parish,US,Louisiana,United States
+1152,LA,Rapides Parish,US,Louisiana,United States
+1153,LA,Red River Parish,US,Louisiana,United States
+1154,LA,Richland Parish,US,Louisiana,United States
+1155,LA,Sabine Parish,US,Louisiana,United States
+1156,LA,St. Bernard Parish,US,Louisiana,United States
+1157,LA,St. Charles Parish,US,Louisiana,United States
+1158,LA,St. Helena Parish,US,Louisiana,United States
+1159,LA,St. James Parish,US,Louisiana,United States
+1160,LA,St. John the Baptist Parish,US,Louisiana,United States
+1161,LA,St. Landry Parish,US,Louisiana,United States
+1162,LA,St. Martin Parish,US,Louisiana,United States
+1163,LA,St. Mary Parish,US,Louisiana,United States
+1164,LA,St. Tammany Parish,US,Louisiana,United States
+1165,LA,Tangipahoa Parish,US,Louisiana,United States
+1166,LA,Tensas Parish,US,Louisiana,United States
+1167,LA,Terrebonne Parish,US,Louisiana,United States
+1168,LA,Union Parish,US,Louisiana,United States
+1169,LA,Vermilion Parish,US,Louisiana,United States
+1170,LA,Vernon Parish,US,Louisiana,United States
+1171,LA,Washington Parish,US,Louisiana,United States
+1172,LA,Webster Parish,US,Louisiana,United States
+1173,LA,West Baton Rouge Parish,US,Louisiana,United States
+1174,LA,West Carroll Parish,US,Louisiana,United States
+1175,LA,West Feliciana Parish,US,Louisiana,United States
+1176,LA,Winn Parish,US,Louisiana,United States
+1177,ME,Androscoggin ,US,Maine,United States
+1178,ME,Aroostook ,US,Maine,United States
+1179,ME,Cumberland ,US,Maine,United States
+1180,ME,Franklin ,US,Maine,United States
+1181,ME,Hancock ,US,Maine,United States
+1182,ME,Kennebec ,US,Maine,United States
+1183,ME,Knox ,US,Maine,United States
+1184,ME,Lincoln ,US,Maine,United States
+1185,ME,Oxford ,US,Maine,United States
+1186,ME,Penobscot ,US,Maine,United States
+1187,ME,Piscataquis ,US,Maine,United States
+1188,ME,Sagadahoc ,US,Maine,United States
+1189,ME,Somerset ,US,Maine,United States
+1190,ME,Waldo ,US,Maine,United States
+1191,ME,Washington ,US,Maine,United States
+1192,ME,York ,US,Maine,United States
+1193,MD,Allegany ,US,Maryland,United States
+1194,MD,Anne Arundel ,US,Maryland,United States
+1195,MD,Baltimore ,US,Maryland,United States
+1196,MD,Calvert ,US,Maryland,United States
+1197,MD,Caroline ,US,Maryland,United States
+1198,MD,Carroll ,US,Maryland,United States
+1199,MD,Cecil ,US,Maryland,United States
+1200,MD,Charles ,US,Maryland,United States
+1201,MD,Dorchester ,US,Maryland,United States
+1202,MD,Frederick ,US,Maryland,United States
+1203,MD,Garrett ,US,Maryland,United States
+1204,MD,Harford ,US,Maryland,United States
+1205,MD,Howard ,US,Maryland,United States
+1206,MD,Kent ,US,Maryland,United States
+1207,MD,Montgomery ,US,Maryland,United States
+1208,MD,Prince George's ,US,Maryland,United States
+1209,MD,Queen Anne's ,US,Maryland,United States
+1210,MD,St. Mary's ,US,Maryland,United States
+1211,MD,Somerset ,US,Maryland,United States
+1212,MD,Talbot ,US,Maryland,United States
+1213,MD,Washington ,US,Maryland,United States
+1214,MD,Wicomico ,US,Maryland,United States
+1215,MD,Worcester ,US,Maryland,United States
+1216,MD,Baltimore city,US,Maryland,United States
+1217,MA,Barnstable ,US,Massachusetts,United States
+1218,MA,Berkshire ,US,Massachusetts,United States
+1219,MA,Bristol ,US,Massachusetts,United States
+1220,MA,Dukes ,US,Massachusetts,United States
+1221,MA,Essex ,US,Massachusetts,United States
+1222,MA,Franklin ,US,Massachusetts,United States
+1223,MA,Hampden ,US,Massachusetts,United States
+1224,MA,Hampshire ,US,Massachusetts,United States
+1225,MA,Middlesex ,US,Massachusetts,United States
+1226,MA,Nantucket ,US,Massachusetts,United States
+1227,MA,Norfolk ,US,Massachusetts,United States
+1228,MA,Plymouth ,US,Massachusetts,United States
+1229,MA,Suffolk ,US,Massachusetts,United States
+1230,MA,Worcester ,US,Massachusetts,United States
+1231,MI,Alcona ,US,Michigan,United States
+1232,MI,Alger ,US,Michigan,United States
+1233,MI,Allegan ,US,Michigan,United States
+1234,MI,Alpena ,US,Michigan,United States
+1235,MI,Antrim ,US,Michigan,United States
+1236,MI,Arenac ,US,Michigan,United States
+1237,MI,Baraga ,US,Michigan,United States
+1238,MI,Barry ,US,Michigan,United States
+1239,MI,Bay ,US,Michigan,United States
+1240,MI,Benzie ,US,Michigan,United States
+1241,MI,Berrien ,US,Michigan,United States
+1242,MI,Branch ,US,Michigan,United States
+1243,MI,Calhoun ,US,Michigan,United States
+1244,MI,Cass ,US,Michigan,United States
+1245,MI,Charlevoix ,US,Michigan,United States
+1246,MI,Cheboygan ,US,Michigan,United States
+1247,MI,Chippewa ,US,Michigan,United States
+1248,MI,Clare ,US,Michigan,United States
+1249,MI,Clinton ,US,Michigan,United States
+1250,MI,Crawford ,US,Michigan,United States
+1251,MI,Delta ,US,Michigan,United States
+1252,MI,Dickinson ,US,Michigan,United States
+1253,MI,Eaton ,US,Michigan,United States
+1254,MI,Emmet ,US,Michigan,United States
+1255,MI,Genesee ,US,Michigan,United States
+1256,MI,Gladwin ,US,Michigan,United States
+1257,MI,Gogebic ,US,Michigan,United States
+1258,MI,Grand Traverse ,US,Michigan,United States
+1259,MI,Gratiot ,US,Michigan,United States
+1260,MI,Hillsdale ,US,Michigan,United States
+1261,MI,Houghton ,US,Michigan,United States
+1262,MI,Huron ,US,Michigan,United States
+1263,MI,Ingham ,US,Michigan,United States
+1264,MI,Ionia ,US,Michigan,United States
+1265,MI,Iosco ,US,Michigan,United States
+1266,MI,Iron ,US,Michigan,United States
+1267,MI,Isabella ,US,Michigan,United States
+1268,MI,Jackson ,US,Michigan,United States
+1269,MI,Kalamazoo ,US,Michigan,United States
+1270,MI,Kalkaska ,US,Michigan,United States
+1271,MI,Kent ,US,Michigan,United States
+1272,MI,Keweenaw ,US,Michigan,United States
+1273,MI,Lake ,US,Michigan,United States
+1274,MI,Lapeer ,US,Michigan,United States
+1275,MI,Leelanau ,US,Michigan,United States
+1276,MI,Lenawee ,US,Michigan,United States
+1277,MI,Livingston ,US,Michigan,United States
+1278,MI,Luce ,US,Michigan,United States
+1279,MI,Mackinac ,US,Michigan,United States
+1280,MI,Macomb ,US,Michigan,United States
+1281,MI,Manistee ,US,Michigan,United States
+1282,MI,Marquette ,US,Michigan,United States
+1283,MI,Mason ,US,Michigan,United States
+1284,MI,Mecosta ,US,Michigan,United States
+1285,MI,Menominee ,US,Michigan,United States
+1286,MI,Midland ,US,Michigan,United States
+1287,MI,Missaukee ,US,Michigan,United States
+1288,MI,Monroe ,US,Michigan,United States
+1289,MI,Montcalm ,US,Michigan,United States
+1290,MI,Montmorency ,US,Michigan,United States
+1291,MI,Muskegon ,US,Michigan,United States
+1292,MI,Newaygo ,US,Michigan,United States
+1293,MI,Oakland ,US,Michigan,United States
+1294,MI,Oceana ,US,Michigan,United States
+1295,MI,Ogemaw ,US,Michigan,United States
+1296,MI,Ontonagon ,US,Michigan,United States
+1297,MI,Osceola ,US,Michigan,United States
+1298,MI,Oscoda ,US,Michigan,United States
+1299,MI,Otsego ,US,Michigan,United States
+1300,MI,Ottawa ,US,Michigan,United States
+1301,MI,Presque Isle ,US,Michigan,United States
+1302,MI,Roscommon ,US,Michigan,United States
+1303,MI,Saginaw ,US,Michigan,United States
+1304,MI,St. Clair ,US,Michigan,United States
+1305,MI,St. Joseph ,US,Michigan,United States
+1306,MI,Sanilac ,US,Michigan,United States
+1307,MI,Schoolcraft ,US,Michigan,United States
+1308,MI,Shiawassee ,US,Michigan,United States
+1309,MI,Tuscola ,US,Michigan,United States
+1310,MI,Van Buren ,US,Michigan,United States
+1311,MI,Washtenaw ,US,Michigan,United States
+1312,MI,Wayne ,US,Michigan,United States
+1313,MI,Wexford ,US,Michigan,United States
+1314,MN,Aitkin ,US,Minnesota,United States
+1315,MN,Anoka ,US,Minnesota,United States
+1316,MN,Becker ,US,Minnesota,United States
+1317,MN,Beltrami ,US,Minnesota,United States
+1318,MN,Benton ,US,Minnesota,United States
+1319,MN,Big Stone ,US,Minnesota,United States
+1320,MN,Blue Earth ,US,Minnesota,United States
+1321,MN,Brown ,US,Minnesota,United States
+1322,MN,Carlton ,US,Minnesota,United States
+1323,MN,Carver ,US,Minnesota,United States
+1324,MN,Cass ,US,Minnesota,United States
+1325,MN,Chippewa ,US,Minnesota,United States
+1326,MN,Chisago ,US,Minnesota,United States
+1327,MN,Clay ,US,Minnesota,United States
+1328,MN,Clearwater ,US,Minnesota,United States
+1329,MN,Cook ,US,Minnesota,United States
+1330,MN,Cottonwood ,US,Minnesota,United States
+1331,MN,Crow Wing ,US,Minnesota,United States
+1332,MN,Dakota ,US,Minnesota,United States
+1333,MN,Dodge ,US,Minnesota,United States
+1334,MN,Douglas ,US,Minnesota,United States
+1335,MN,Faribault ,US,Minnesota,United States
+1336,MN,Fillmore ,US,Minnesota,United States
+1337,MN,Freeborn ,US,Minnesota,United States
+1338,MN,Goodhue ,US,Minnesota,United States
+1339,MN,Grant ,US,Minnesota,United States
+1340,MN,Hennepin ,US,Minnesota,United States
+1341,MN,Houston ,US,Minnesota,United States
+1342,MN,Hubbard ,US,Minnesota,United States
+1343,MN,Isanti ,US,Minnesota,United States
+1344,MN,Itasca ,US,Minnesota,United States
+1345,MN,Jackson ,US,Minnesota,United States
+1346,MN,Kanabec ,US,Minnesota,United States
+1347,MN,Kandiyohi ,US,Minnesota,United States
+1348,MN,Kittson ,US,Minnesota,United States
+1349,MN,Koochiching ,US,Minnesota,United States
+1350,MN,Lac qui Parle ,US,Minnesota,United States
+1351,MN,Lake ,US,Minnesota,United States
+1352,MN,Lake of the Woods ,US,Minnesota,United States
+1353,MN,Le Sueur ,US,Minnesota,United States
+1354,MN,Lincoln ,US,Minnesota,United States
+1355,MN,Lyon ,US,Minnesota,United States
+1356,MN,McLeod ,US,Minnesota,United States
+1357,MN,Mahnomen ,US,Minnesota,United States
+1358,MN,Marshall ,US,Minnesota,United States
+1359,MN,Martin ,US,Minnesota,United States
+1360,MN,Meeker ,US,Minnesota,United States
+1361,MN,Mille Lacs ,US,Minnesota,United States
+1362,MN,Morrison ,US,Minnesota,United States
+1363,MN,Mower ,US,Minnesota,United States
+1364,MN,Murray ,US,Minnesota,United States
+1365,MN,Nicollet ,US,Minnesota,United States
+1366,MN,Nobles ,US,Minnesota,United States
+1367,MN,Norman ,US,Minnesota,United States
+1368,MN,Olmsted ,US,Minnesota,United States
+1369,MN,Otter Tail ,US,Minnesota,United States
+1370,MN,Pennington ,US,Minnesota,United States
+1371,MN,Pine ,US,Minnesota,United States
+1372,MN,Pipestone ,US,Minnesota,United States
+1373,MN,Polk ,US,Minnesota,United States
+1374,MN,Pope ,US,Minnesota,United States
+1375,MN,Ramsey ,US,Minnesota,United States
+1376,MN,Red Lake ,US,Minnesota,United States
+1377,MN,Redwood ,US,Minnesota,United States
+1378,MN,Renville ,US,Minnesota,United States
+1379,MN,Rice ,US,Minnesota,United States
+1380,MN,Rock ,US,Minnesota,United States
+1381,MN,Roseau ,US,Minnesota,United States
+1382,MN,St. Louis ,US,Minnesota,United States
+1383,MN,Scott ,US,Minnesota,United States
+1384,MN,Sherburne ,US,Minnesota,United States
+1385,MN,Sibley ,US,Minnesota,United States
+1386,MN,Stearns ,US,Minnesota,United States
+1387,MN,Steele ,US,Minnesota,United States
+1388,MN,Stevens ,US,Minnesota,United States
+1389,MN,Swift ,US,Minnesota,United States
+1390,MN,Todd ,US,Minnesota,United States
+1391,MN,Traverse ,US,Minnesota,United States
+1392,MN,Wabasha ,US,Minnesota,United States
+1393,MN,Wadena ,US,Minnesota,United States
+1394,MN,Waseca ,US,Minnesota,United States
+1395,MN,Washington ,US,Minnesota,United States
+1396,MN,Watonwan ,US,Minnesota,United States
+1397,MN,Wilkin ,US,Minnesota,United States
+1398,MN,Winona ,US,Minnesota,United States
+1399,MN,Wright ,US,Minnesota,United States
+1400,MN,Yellow Medicine ,US,Minnesota,United States
+1401,MS,Adams ,US,Mississippi,United States
+1402,MS,Alcorn ,US,Mississippi,United States
+1403,MS,Amite ,US,Mississippi,United States
+1404,MS,Attala ,US,Mississippi,United States
+1405,MS,Benton ,US,Mississippi,United States
+1406,MS,Bolivar ,US,Mississippi,United States
+1407,MS,Calhoun ,US,Mississippi,United States
+1408,MS,Carroll ,US,Mississippi,United States
+1409,MS,Chickasaw ,US,Mississippi,United States
+1410,MS,Choctaw ,US,Mississippi,United States
+1411,MS,Claiborne ,US,Mississippi,United States
+1412,MS,Clarke ,US,Mississippi,United States
+1413,MS,Clay ,US,Mississippi,United States
+1414,MS,Coahoma ,US,Mississippi,United States
+1415,MS,Copiah ,US,Mississippi,United States
+1416,MS,Covington ,US,Mississippi,United States
+1417,MS,DeSoto ,US,Mississippi,United States
+1418,MS,Forrest ,US,Mississippi,United States
+1419,MS,Franklin ,US,Mississippi,United States
+1420,MS,George ,US,Mississippi,United States
+1421,MS,Greene ,US,Mississippi,United States
+1422,MS,Grenada ,US,Mississippi,United States
+1423,MS,Hancock ,US,Mississippi,United States
+1424,MS,Harrison ,US,Mississippi,United States
+1425,MS,Hinds ,US,Mississippi,United States
+1426,MS,Holmes ,US,Mississippi,United States
+1427,MS,Humphreys ,US,Mississippi,United States
+1428,MS,Issaquena ,US,Mississippi,United States
+1429,MS,Itawamba ,US,Mississippi,United States
+1430,MS,Jackson ,US,Mississippi,United States
+1431,MS,Jasper ,US,Mississippi,United States
+1432,MS,Jefferson ,US,Mississippi,United States
+1433,MS,Jefferson Davis ,US,Mississippi,United States
+1434,MS,Jones ,US,Mississippi,United States
+1435,MS,Kemper ,US,Mississippi,United States
+1436,MS,Lafayette ,US,Mississippi,United States
+1437,MS,Lamar ,US,Mississippi,United States
+1438,MS,Lauderdale ,US,Mississippi,United States
+1439,MS,Lawrence ,US,Mississippi,United States
+1440,MS,Leake ,US,Mississippi,United States
+1441,MS,Lee ,US,Mississippi,United States
+1442,MS,Leflore ,US,Mississippi,United States
+1443,MS,Lincoln ,US,Mississippi,United States
+1444,MS,Lowndes ,US,Mississippi,United States
+1445,MS,Madison ,US,Mississippi,United States
+1446,MS,Marion ,US,Mississippi,United States
+1447,MS,Marshall ,US,Mississippi,United States
+1448,MS,Monroe ,US,Mississippi,United States
+1449,MS,Montgomery ,US,Mississippi,United States
+1450,MS,Neshoba ,US,Mississippi,United States
+1451,MS,Newton ,US,Mississippi,United States
+1452,MS,Noxubee ,US,Mississippi,United States
+1453,MS,Oktibbeha ,US,Mississippi,United States
+1454,MS,Panola ,US,Mississippi,United States
+1455,MS,Pearl River ,US,Mississippi,United States
+1456,MS,Perry ,US,Mississippi,United States
+1457,MS,Pike ,US,Mississippi,United States
+1458,MS,Pontotoc ,US,Mississippi,United States
+1459,MS,Prentiss ,US,Mississippi,United States
+1460,MS,Quitman ,US,Mississippi,United States
+1461,MS,Rankin ,US,Mississippi,United States
+1462,MS,Scott ,US,Mississippi,United States
+1463,MS,Sharkey ,US,Mississippi,United States
+1464,MS,Simpson ,US,Mississippi,United States
+1465,MS,Smith ,US,Mississippi,United States
+1466,MS,Stone ,US,Mississippi,United States
+1467,MS,Sunflower ,US,Mississippi,United States
+1468,MS,Tallahatchie ,US,Mississippi,United States
+1469,MS,Tate ,US,Mississippi,United States
+1470,MS,Tippah ,US,Mississippi,United States
+1471,MS,Tishomingo ,US,Mississippi,United States
+1472,MS,Tunica ,US,Mississippi,United States
+1473,MS,Union ,US,Mississippi,United States
+1474,MS,Walthall ,US,Mississippi,United States
+1475,MS,Warren ,US,Mississippi,United States
+1476,MS,Washington ,US,Mississippi,United States
+1477,MS,Wayne ,US,Mississippi,United States
+1478,MS,Webster ,US,Mississippi,United States
+1479,MS,Wilkinson ,US,Mississippi,United States
+1480,MS,Winston ,US,Mississippi,United States
+1481,MS,Yalobusha ,US,Mississippi,United States
+1482,MS,Yazoo ,US,Mississippi,United States
+1483,MO,Adair ,US,Missouri,United States
+1484,MO,Andrew ,US,Missouri,United States
+1485,MO,Atchison ,US,Missouri,United States
+1486,MO,Audrain ,US,Missouri,United States
+1487,MO,Barry ,US,Missouri,United States
+1488,MO,Barton ,US,Missouri,United States
+1489,MO,Bates ,US,Missouri,United States
+1490,MO,Benton ,US,Missouri,United States
+1491,MO,Bollinger ,US,Missouri,United States
+1492,MO,Boone ,US,Missouri,United States
+1493,MO,Buchanan ,US,Missouri,United States
+1494,MO,Butler ,US,Missouri,United States
+1495,MO,Caldwell ,US,Missouri,United States
+1496,MO,Callaway ,US,Missouri,United States
+1497,MO,Camden ,US,Missouri,United States
+1498,MO,Cape Girardeau ,US,Missouri,United States
+1499,MO,Carroll ,US,Missouri,United States
+1500,MO,Carter ,US,Missouri,United States
+1501,MO,Cass ,US,Missouri,United States
+1502,MO,Cedar ,US,Missouri,United States
+1503,MO,Chariton ,US,Missouri,United States
+1504,MO,Christian ,US,Missouri,United States
+1505,MO,Clark ,US,Missouri,United States
+1506,MO,Clay ,US,Missouri,United States
+1507,MO,Clinton ,US,Missouri,United States
+1508,MO,Cole ,US,Missouri,United States
+1509,MO,Cooper ,US,Missouri,United States
+1510,MO,Crawford ,US,Missouri,United States
+1511,MO,Dade ,US,Missouri,United States
+1512,MO,Dallas ,US,Missouri,United States
+1513,MO,Daviess ,US,Missouri,United States
+1514,MO,DeKalb ,US,Missouri,United States
+1515,MO,Dent ,US,Missouri,United States
+1516,MO,Douglas ,US,Missouri,United States
+1517,MO,Dunklin ,US,Missouri,United States
+1518,MO,Franklin ,US,Missouri,United States
+1519,MO,Gasconade ,US,Missouri,United States
+1520,MO,Gentry ,US,Missouri,United States
+1521,MO,Greene ,US,Missouri,United States
+1522,MO,Grundy ,US,Missouri,United States
+1523,MO,Harrison ,US,Missouri,United States
+1524,MO,Henry ,US,Missouri,United States
+1525,MO,Hickory ,US,Missouri,United States
+1526,MO,Holt ,US,Missouri,United States
+1527,MO,Howard ,US,Missouri,United States
+1528,MO,Howell ,US,Missouri,United States
+1529,MO,Iron ,US,Missouri,United States
+1530,MO,Jackson ,US,Missouri,United States
+1531,MO,Jasper ,US,Missouri,United States
+1532,MO,Jefferson ,US,Missouri,United States
+1533,MO,Johnson ,US,Missouri,United States
+1534,MO,Knox ,US,Missouri,United States
+1535,MO,Laclede ,US,Missouri,United States
+1536,MO,Lafayette ,US,Missouri,United States
+1537,MO,Lawrence ,US,Missouri,United States
+1538,MO,Lewis ,US,Missouri,United States
+1539,MO,Lincoln ,US,Missouri,United States
+1540,MO,Linn ,US,Missouri,United States
+1541,MO,Livingston ,US,Missouri,United States
+1542,MO,McDonald ,US,Missouri,United States
+1543,MO,Macon ,US,Missouri,United States
+1544,MO,Madison ,US,Missouri,United States
+1545,MO,Maries ,US,Missouri,United States
+1546,MO,Marion ,US,Missouri,United States
+1547,MO,Mercer ,US,Missouri,United States
+1548,MO,Miller ,US,Missouri,United States
+1549,MO,Mississippi ,US,Missouri,United States
+1550,MO,Moniteau ,US,Missouri,United States
+1551,MO,Monroe ,US,Missouri,United States
+1552,MO,Montgomery ,US,Missouri,United States
+1553,MO,Morgan ,US,Missouri,United States
+1554,MO,New Madrid ,US,Missouri,United States
+1555,MO,Newton ,US,Missouri,United States
+1556,MO,Nodaway ,US,Missouri,United States
+1557,MO,Oregon ,US,Missouri,United States
+1558,MO,Osage ,US,Missouri,United States
+1559,MO,Ozark ,US,Missouri,United States
+1560,MO,Pemiscot ,US,Missouri,United States
+1561,MO,Perry ,US,Missouri,United States
+1562,MO,Pettis ,US,Missouri,United States
+1563,MO,Phelps ,US,Missouri,United States
+1564,MO,Pike ,US,Missouri,United States
+1565,MO,Platte ,US,Missouri,United States
+1566,MO,Polk ,US,Missouri,United States
+1567,MO,Pulaski ,US,Missouri,United States
+1568,MO,Putnam ,US,Missouri,United States
+1569,MO,Ralls ,US,Missouri,United States
+1570,MO,Randolph ,US,Missouri,United States
+1571,MO,Ray ,US,Missouri,United States
+1572,MO,Reynolds ,US,Missouri,United States
+1573,MO,Ripley ,US,Missouri,United States
+1574,MO,St. Charles ,US,Missouri,United States
+1575,MO,St. Clair ,US,Missouri,United States
+1576,MO,Ste. Genevieve ,US,Missouri,United States
+1577,MO,St. Francois ,US,Missouri,United States
+1578,MO,St. Louis ,US,Missouri,United States
+1579,MO,Saline ,US,Missouri,United States
+1580,MO,Schuyler ,US,Missouri,United States
+1581,MO,Scotland ,US,Missouri,United States
+1582,MO,Scott ,US,Missouri,United States
+1583,MO,Shannon ,US,Missouri,United States
+1584,MO,Shelby ,US,Missouri,United States
+1585,MO,Stoddard ,US,Missouri,United States
+1586,MO,Stone ,US,Missouri,United States
+1587,MO,Sullivan ,US,Missouri,United States
+1588,MO,Taney ,US,Missouri,United States
+1589,MO,Texas ,US,Missouri,United States
+1590,MO,Vernon ,US,Missouri,United States
+1591,MO,Warren ,US,Missouri,United States
+1592,MO,Washington ,US,Missouri,United States
+1593,MO,Wayne ,US,Missouri,United States
+1594,MO,Webster ,US,Missouri,United States
+1595,MO,Worth ,US,Missouri,United States
+1596,MO,Wright ,US,Missouri,United States
+1597,MO,St. Louis city,US,Missouri,United States
+1598,MT,Beaverhead ,US,Montana,United States
+1599,MT,Big Horn ,US,Montana,United States
+1600,MT,Blaine ,US,Montana,United States
+1601,MT,Broadwater ,US,Montana,United States
+1602,MT,Carbon ,US,Montana,United States
+1603,MT,Carter ,US,Montana,United States
+1604,MT,Cascade ,US,Montana,United States
+1605,MT,Chouteau ,US,Montana,United States
+1606,MT,Custer ,US,Montana,United States
+1607,MT,Daniels ,US,Montana,United States
+1608,MT,Dawson ,US,Montana,United States
+1609,MT,Deer Lodge ,US,Montana,United States
+1610,MT,Fallon ,US,Montana,United States
+1611,MT,Fergus ,US,Montana,United States
+1612,MT,Flathead ,US,Montana,United States
+1613,MT,Gallatin ,US,Montana,United States
+1614,MT,Garfield ,US,Montana,United States
+1615,MT,Glacier ,US,Montana,United States
+1616,MT,Golden Valley ,US,Montana,United States
+1617,MT,Granite ,US,Montana,United States
+1618,MT,Hill ,US,Montana,United States
+1619,MT,Jefferson ,US,Montana,United States
+1620,MT,Judith Basin ,US,Montana,United States
+1621,MT,Lake ,US,Montana,United States
+1622,MT,Lewis and Clark ,US,Montana,United States
+1623,MT,Liberty ,US,Montana,United States
+1624,MT,Lincoln ,US,Montana,United States
+1625,MT,McCone ,US,Montana,United States
+1626,MT,Madison ,US,Montana,United States
+1627,MT,Meagher ,US,Montana,United States
+1628,MT,Mineral ,US,Montana,United States
+1629,MT,Missoula ,US,Montana,United States
+1630,MT,Musselshell ,US,Montana,United States
+1631,MT,Park ,US,Montana,United States
+1632,MT,Petroleum ,US,Montana,United States
+1633,MT,Phillips ,US,Montana,United States
+1634,MT,Pondera ,US,Montana,United States
+1635,MT,Powder River ,US,Montana,United States
+1636,MT,Powell ,US,Montana,United States
+1637,MT,Prairie ,US,Montana,United States
+1638,MT,Ravalli ,US,Montana,United States
+1639,MT,Richland ,US,Montana,United States
+1640,MT,Roosevelt ,US,Montana,United States
+1641,MT,Rosebud ,US,Montana,United States
+1642,MT,Sanders ,US,Montana,United States
+1643,MT,Sheridan ,US,Montana,United States
+1644,MT,Silver Bow ,US,Montana,United States
+1645,MT,Stillwater ,US,Montana,United States
+1646,MT,Sweet Grass ,US,Montana,United States
+1647,MT,Teton ,US,Montana,United States
+1648,MT,Toole ,US,Montana,United States
+1649,MT,Treasure ,US,Montana,United States
+1650,MT,Valley ,US,Montana,United States
+1651,MT,Wheatland ,US,Montana,United States
+1652,MT,Wibaux ,US,Montana,United States
+1653,MT,Yellowstone ,US,Montana,United States
+1654,NE,Adams ,US,Nebraska,United States
+1655,NE,Antelope ,US,Nebraska,United States
+1656,NE,Arthur ,US,Nebraska,United States
+1657,NE,Banner ,US,Nebraska,United States
+1658,NE,Blaine ,US,Nebraska,United States
+1659,NE,Boone ,US,Nebraska,United States
+1660,NE,Box Butte ,US,Nebraska,United States
+1661,NE,Boyd ,US,Nebraska,United States
+1662,NE,Brown ,US,Nebraska,United States
+1663,NE,Buffalo ,US,Nebraska,United States
+1664,NE,Burt ,US,Nebraska,United States
+1665,NE,Butler ,US,Nebraska,United States
+1666,NE,Cass ,US,Nebraska,United States
+1667,NE,Cedar ,US,Nebraska,United States
+1668,NE,Chase ,US,Nebraska,United States
+1669,NE,Cherry ,US,Nebraska,United States
+1670,NE,Cheyenne ,US,Nebraska,United States
+1671,NE,Clay ,US,Nebraska,United States
+1672,NE,Colfax ,US,Nebraska,United States
+1673,NE,Cuming ,US,Nebraska,United States
+1674,NE,Custer ,US,Nebraska,United States
+1675,NE,Dakota ,US,Nebraska,United States
+1676,NE,Dawes ,US,Nebraska,United States
+1677,NE,Dawson ,US,Nebraska,United States
+1678,NE,Deuel ,US,Nebraska,United States
+1679,NE,Dixon ,US,Nebraska,United States
+1680,NE,Dodge ,US,Nebraska,United States
+1681,NE,Douglas ,US,Nebraska,United States
+1682,NE,Dundy ,US,Nebraska,United States
+1683,NE,Fillmore ,US,Nebraska,United States
+1684,NE,Franklin ,US,Nebraska,United States
+1685,NE,Frontier ,US,Nebraska,United States
+1686,NE,Furnas ,US,Nebraska,United States
+1687,NE,Gage ,US,Nebraska,United States
+1688,NE,Garden ,US,Nebraska,United States
+1689,NE,Garfield ,US,Nebraska,United States
+1690,NE,Gosper ,US,Nebraska,United States
+1691,NE,Grant ,US,Nebraska,United States
+1692,NE,Greeley ,US,Nebraska,United States
+1693,NE,Hall ,US,Nebraska,United States
+1694,NE,Hamilton ,US,Nebraska,United States
+1695,NE,Harlan ,US,Nebraska,United States
+1696,NE,Hayes ,US,Nebraska,United States
+1697,NE,Hitchcock ,US,Nebraska,United States
+1698,NE,Holt ,US,Nebraska,United States
+1699,NE,Hooker ,US,Nebraska,United States
+1700,NE,Howard ,US,Nebraska,United States
+1701,NE,Jefferson ,US,Nebraska,United States
+1702,NE,Johnson ,US,Nebraska,United States
+1703,NE,Kearney ,US,Nebraska,United States
+1704,NE,Keith ,US,Nebraska,United States
+1705,NE,Keya Paha ,US,Nebraska,United States
+1706,NE,Kimball ,US,Nebraska,United States
+1707,NE,Knox ,US,Nebraska,United States
+1708,NE,Lancaster ,US,Nebraska,United States
+1709,NE,Lincoln ,US,Nebraska,United States
+1710,NE,Logan ,US,Nebraska,United States
+1711,NE,Loup ,US,Nebraska,United States
+1712,NE,McPherson ,US,Nebraska,United States
+1713,NE,Madison ,US,Nebraska,United States
+1714,NE,Merrick ,US,Nebraska,United States
+1715,NE,Morrill ,US,Nebraska,United States
+1716,NE,Nance ,US,Nebraska,United States
+1717,NE,Nemaha ,US,Nebraska,United States
+1718,NE,Nuckolls ,US,Nebraska,United States
+1719,NE,Otoe ,US,Nebraska,United States
+1720,NE,Pawnee ,US,Nebraska,United States
+1721,NE,Perkins ,US,Nebraska,United States
+1722,NE,Phelps ,US,Nebraska,United States
+1723,NE,Pierce ,US,Nebraska,United States
+1724,NE,Platte ,US,Nebraska,United States
+1725,NE,Polk ,US,Nebraska,United States
+1726,NE,Red Willow ,US,Nebraska,United States
+1727,NE,Richardson ,US,Nebraska,United States
+1728,NE,Rock ,US,Nebraska,United States
+1729,NE,Saline ,US,Nebraska,United States
+1730,NE,Sarpy ,US,Nebraska,United States
+1731,NE,Saunders ,US,Nebraska,United States
+1732,NE,Scotts Bluff ,US,Nebraska,United States
+1733,NE,Seward ,US,Nebraska,United States
+1734,NE,Sheridan ,US,Nebraska,United States
+1735,NE,Sherman ,US,Nebraska,United States
+1736,NE,Sioux ,US,Nebraska,United States
+1737,NE,Stanton ,US,Nebraska,United States
+1738,NE,Thayer ,US,Nebraska,United States
+1739,NE,Thomas ,US,Nebraska,United States
+1740,NE,Thurston ,US,Nebraska,United States
+1741,NE,Valley ,US,Nebraska,United States
+1742,NE,Washington ,US,Nebraska,United States
+1743,NE,Wayne ,US,Nebraska,United States
+1744,NE,Webster ,US,Nebraska,United States
+1745,NE,Wheeler ,US,Nebraska,United States
+1746,NE,York ,US,Nebraska,United States
+1747,NV,Churchill ,US,Nevada,United States
+1748,NV,Clark ,US,Nevada,United States
+1749,NV,Douglas ,US,Nevada,United States
+1750,NV,Elko ,US,Nevada,United States
+1751,NV,Esmeralda ,US,Nevada,United States
+1752,NV,Eureka ,US,Nevada,United States
+1753,NV,Humboldt ,US,Nevada,United States
+1754,NV,Lander ,US,Nevada,United States
+1755,NV,Lincoln ,US,Nevada,United States
+1756,NV,Lyon ,US,Nevada,United States
+1757,NV,Mineral ,US,Nevada,United States
+1758,NV,Nye ,US,Nevada,United States
+1759,NV,Pershing ,US,Nevada,United States
+1760,NV,Storey ,US,Nevada,United States
+1761,NV,Washoe ,US,Nevada,United States
+1762,NV,White Pine ,US,Nevada,United States
+1763,NV,Carson City,US,Nevada,United States
+1764,NH,Belknap ,US,New Hampshire,United States
+1765,NH,Carroll ,US,New Hampshire,United States
+1766,NH,Cheshire ,US,New Hampshire,United States
+1767,NH,Coos ,US,New Hampshire,United States
+1768,NH,Grafton ,US,New Hampshire,United States
+1769,NH,Hillsborough ,US,New Hampshire,United States
+1770,NH,Merrimack ,US,New Hampshire,United States
+1771,NH,Rockingham ,US,New Hampshire,United States
+1772,NH,Strafford ,US,New Hampshire,United States
+1773,NH,Sullivan ,US,New Hampshire,United States
+1774,NJ,Atlantic ,US,New Jersey,United States
+1775,NJ,Bergen ,US,New Jersey,United States
+1776,NJ,Burlington ,US,New Jersey,United States
+1777,NJ,Camden ,US,New Jersey,United States
+1778,NJ,Cape May ,US,New Jersey,United States
+1779,NJ,Cumberland ,US,New Jersey,United States
+1780,NJ,Essex ,US,New Jersey,United States
+1781,NJ,Gloucester ,US,New Jersey,United States
+1782,NJ,Hudson ,US,New Jersey,United States
+1783,NJ,Hunterdon ,US,New Jersey,United States
+1784,NJ,Mercer ,US,New Jersey,United States
+1785,NJ,Middlesex ,US,New Jersey,United States
+1786,NJ,Monmouth ,US,New Jersey,United States
+1787,NJ,Morris ,US,New Jersey,United States
+1788,NJ,Ocean ,US,New Jersey,United States
+1789,NJ,Passaic ,US,New Jersey,United States
+1790,NJ,Salem ,US,New Jersey,United States
+1791,NJ,Somerset ,US,New Jersey,United States
+1792,NJ,Sussex ,US,New Jersey,United States
+1793,NJ,Union ,US,New Jersey,United States
+1794,NJ,Warren ,US,New Jersey,United States
+1795,NM,Bernalillo ,US,New Mexico,United States
+1796,NM,Catron ,US,New Mexico,United States
+1797,NM,Chaves ,US,New Mexico,United States
+1798,NM,Cibola ,US,New Mexico,United States
+1799,NM,Colfax ,US,New Mexico,United States
+1800,NM,Curry ,US,New Mexico,United States
+1801,NM,De Baca ,US,New Mexico,United States
+1802,NM,Dona Ana ,US,New Mexico,United States
+1803,NM,Eddy ,US,New Mexico,United States
+1804,NM,Grant ,US,New Mexico,United States
+1805,NM,Guadalupe ,US,New Mexico,United States
+1806,NM,Harding ,US,New Mexico,United States
+1807,NM,Hidalgo ,US,New Mexico,United States
+1808,NM,Lea ,US,New Mexico,United States
+1809,NM,Lincoln ,US,New Mexico,United States
+1810,NM,Los Alamos ,US,New Mexico,United States
+1811,NM,Luna ,US,New Mexico,United States
+1812,NM,McKinley ,US,New Mexico,United States
+1813,NM,Mora ,US,New Mexico,United States
+1814,NM,Otero ,US,New Mexico,United States
+1815,NM,Quay ,US,New Mexico,United States
+1816,NM,Rio Arriba ,US,New Mexico,United States
+1817,NM,Roosevelt ,US,New Mexico,United States
+1818,NM,Sandoval ,US,New Mexico,United States
+1819,NM,San Juan ,US,New Mexico,United States
+1820,NM,San Miguel ,US,New Mexico,United States
+1821,NM,Santa Fe ,US,New Mexico,United States
+1822,NM,Sierra ,US,New Mexico,United States
+1823,NM,Socorro ,US,New Mexico,United States
+1824,NM,Taos ,US,New Mexico,United States
+1825,NM,Torrance ,US,New Mexico,United States
+1826,NM,Union ,US,New Mexico,United States
+1827,NM,Valencia ,US,New Mexico,United States
+1828,NY,Albany ,US,New York,United States
+1829,NY,Allegany ,US,New York,United States
+1830,NY,Bronx ,US,New York,United States
+1831,NY,Broome ,US,New York,United States
+1832,NY,Cattaraugus ,US,New York,United States
+1833,NY,Cayuga ,US,New York,United States
+1834,NY,Chautauqua ,US,New York,United States
+1835,NY,Chemung ,US,New York,United States
+1836,NY,Chenango ,US,New York,United States
+1837,NY,Clinton ,US,New York,United States
+1838,NY,Columbia ,US,New York,United States
+1839,NY,Cortland ,US,New York,United States
+1840,NY,Delaware ,US,New York,United States
+1841,NY,Dutchess ,US,New York,United States
+1842,NY,Erie ,US,New York,United States
+1843,NY,Essex ,US,New York,United States
+1844,NY,Franklin ,US,New York,United States
+1845,NY,Fulton ,US,New York,United States
+1846,NY,Genesee ,US,New York,United States
+1847,NY,Greene ,US,New York,United States
+1848,NY,Hamilton ,US,New York,United States
+1849,NY,Herkimer ,US,New York,United States
+1850,NY,Jefferson ,US,New York,United States
+1851,NY,Kings ,US,New York,United States
+1852,NY,Lewis ,US,New York,United States
+1853,NY,Livingston ,US,New York,United States
+1854,NY,Madison ,US,New York,United States
+1855,NY,Monroe ,US,New York,United States
+1856,NY,Montgomery ,US,New York,United States
+1857,NY,Nassau ,US,New York,United States
+1858,NY,New York ,US,New York,United States
+1859,NY,Niagara ,US,New York,United States
+1860,NY,Oneida ,US,New York,United States
+1861,NY,Onondaga ,US,New York,United States
+1862,NY,Ontario ,US,New York,United States
+1863,NY,Orange ,US,New York,United States
+1864,NY,Orleans ,US,New York,United States
+1865,NY,Oswego ,US,New York,United States
+1866,NY,Otsego ,US,New York,United States
+1867,NY,Putnam ,US,New York,United States
+1868,NY,Queens ,US,New York,United States
+1869,NY,Rensselaer ,US,New York,United States
+1870,NY,Richmond ,US,New York,United States
+1871,NY,Rockland ,US,New York,United States
+1872,NY,St. Lawrence ,US,New York,United States
+1873,NY,Saratoga ,US,New York,United States
+1874,NY,Schenectady ,US,New York,United States
+1875,NY,Schoharie ,US,New York,United States
+1876,NY,Schuyler ,US,New York,United States
+1877,NY,Seneca ,US,New York,United States
+1878,NY,Steuben ,US,New York,United States
+1879,NY,Suffolk ,US,New York,United States
+1880,NY,Sullivan ,US,New York,United States
+1881,NY,Tioga ,US,New York,United States
+1882,NY,Tompkins ,US,New York,United States
+1883,NY,Ulster ,US,New York,United States
+1884,NY,Warren ,US,New York,United States
+1885,NY,Washington ,US,New York,United States
+1886,NY,Wayne ,US,New York,United States
+1887,NY,Westchester ,US,New York,United States
+1888,NY,Wyoming ,US,New York,United States
+1889,NY,Yates ,US,New York,United States
+1890,NC,Alamance ,US,North Carolina,United States
+1891,NC,Alexander ,US,North Carolina,United States
+1892,NC,Alleghany ,US,North Carolina,United States
+1893,NC,Anson ,US,North Carolina,United States
+1894,NC,Ashe ,US,North Carolina,United States
+1895,NC,Avery ,US,North Carolina,United States
+1896,NC,Beaufort ,US,North Carolina,United States
+1897,NC,Bertie ,US,North Carolina,United States
+1898,NC,Bladen ,US,North Carolina,United States
+1899,NC,Brunswick ,US,North Carolina,United States
+1900,NC,Buncombe ,US,North Carolina,United States
+1901,NC,Burke ,US,North Carolina,United States
+1902,NC,Cabarrus ,US,North Carolina,United States
+1903,NC,Caldwell ,US,North Carolina,United States
+1904,NC,Camden ,US,North Carolina,United States
+1905,NC,Carteret ,US,North Carolina,United States
+1906,NC,Caswell ,US,North Carolina,United States
+1907,NC,Catawba ,US,North Carolina,United States
+1908,NC,Chatham ,US,North Carolina,United States
+1909,NC,Cherokee ,US,North Carolina,United States
+1910,NC,Chowan ,US,North Carolina,United States
+1911,NC,Clay ,US,North Carolina,United States
+1912,NC,Cleveland ,US,North Carolina,United States
+1913,NC,Columbus ,US,North Carolina,United States
+1914,NC,Craven ,US,North Carolina,United States
+1915,NC,Cumberland ,US,North Carolina,United States
+1916,NC,Currituck ,US,North Carolina,United States
+1917,NC,Dare ,US,North Carolina,United States
+1918,NC,Davidson ,US,North Carolina,United States
+1919,NC,Davie ,US,North Carolina,United States
+1920,NC,Duplin ,US,North Carolina,United States
+1921,NC,Durham ,US,North Carolina,United States
+1922,NC,Edgecombe ,US,North Carolina,United States
+1923,NC,Forsyth ,US,North Carolina,United States
+1924,NC,Franklin ,US,North Carolina,United States
+1925,NC,Gaston ,US,North Carolina,United States
+1926,NC,Gates ,US,North Carolina,United States
+1927,NC,Graham ,US,North Carolina,United States
+1928,NC,Granville ,US,North Carolina,United States
+1929,NC,Greene ,US,North Carolina,United States
+1930,NC,Guilford ,US,North Carolina,United States
+1931,NC,Halifax ,US,North Carolina,United States
+1932,NC,Harnett ,US,North Carolina,United States
+1933,NC,Haywood ,US,North Carolina,United States
+1934,NC,Henderson ,US,North Carolina,United States
+1935,NC,Hertford ,US,North Carolina,United States
+1936,NC,Hoke ,US,North Carolina,United States
+1937,NC,Hyde ,US,North Carolina,United States
+1938,NC,Iredell ,US,North Carolina,United States
+1939,NC,Jackson ,US,North Carolina,United States
+1940,NC,Johnston ,US,North Carolina,United States
+1941,NC,Jones ,US,North Carolina,United States
+1942,NC,Lee ,US,North Carolina,United States
+1943,NC,Lenoir ,US,North Carolina,United States
+1944,NC,Lincoln ,US,North Carolina,United States
+1945,NC,McDowell ,US,North Carolina,United States
+1946,NC,Macon ,US,North Carolina,United States
+1947,NC,Madison ,US,North Carolina,United States
+1948,NC,Martin ,US,North Carolina,United States
+1949,NC,Mecklenburg ,US,North Carolina,United States
+1950,NC,Mitchell ,US,North Carolina,United States
+1951,NC,Montgomery ,US,North Carolina,United States
+1952,NC,Moore ,US,North Carolina,United States
+1953,NC,Nash ,US,North Carolina,United States
+1954,NC,New Hanover ,US,North Carolina,United States
+1955,NC,Northampton ,US,North Carolina,United States
+1956,NC,Onslow ,US,North Carolina,United States
+1957,NC,Orange ,US,North Carolina,United States
+1958,NC,Pamlico ,US,North Carolina,United States
+1959,NC,Pasquotank ,US,North Carolina,United States
+1960,NC,Pender ,US,North Carolina,United States
+1961,NC,Perquimans ,US,North Carolina,United States
+1962,NC,Person ,US,North Carolina,United States
+1963,NC,Pitt ,US,North Carolina,United States
+1964,NC,Polk ,US,North Carolina,United States
+1965,NC,Randolph ,US,North Carolina,United States
+1966,NC,Richmond ,US,North Carolina,United States
+1967,NC,Robeson ,US,North Carolina,United States
+1968,NC,Rockingham ,US,North Carolina,United States
+1969,NC,Rowan ,US,North Carolina,United States
+1970,NC,Rutherford ,US,North Carolina,United States
+1971,NC,Sampson ,US,North Carolina,United States
+1972,NC,Scotland ,US,North Carolina,United States
+1973,NC,Stanly ,US,North Carolina,United States
+1974,NC,Stokes ,US,North Carolina,United States
+1975,NC,Surry ,US,North Carolina,United States
+1976,NC,Swain ,US,North Carolina,United States
+1977,NC,Transylvania ,US,North Carolina,United States
+1978,NC,Tyrrell ,US,North Carolina,United States
+1979,NC,Union ,US,North Carolina,United States
+1980,NC,Vance ,US,North Carolina,United States
+1981,NC,Wake ,US,North Carolina,United States
+1982,NC,Warren ,US,North Carolina,United States
+1983,NC,Washington ,US,North Carolina,United States
+1984,NC,Watauga ,US,North Carolina,United States
+1985,NC,Wayne ,US,North Carolina,United States
+1986,NC,Wilkes ,US,North Carolina,United States
+1987,NC,Wilson ,US,North Carolina,United States
+1988,NC,Yadkin ,US,North Carolina,United States
+1989,NC,Yancey ,US,North Carolina,United States
+1990,ND,Adams ,US,North Dakota,United States
+1991,ND,Barnes ,US,North Dakota,United States
+1992,ND,Benson ,US,North Dakota,United States
+1993,ND,Billings ,US,North Dakota,United States
+1994,ND,Bottineau ,US,North Dakota,United States
+1995,ND,Bowman ,US,North Dakota,United States
+1996,ND,Burke ,US,North Dakota,United States
+1997,ND,Burleigh ,US,North Dakota,United States
+1998,ND,Cass ,US,North Dakota,United States
+1999,ND,Cavalier ,US,North Dakota,United States
+2000,ND,Dickey ,US,North Dakota,United States
+2001,ND,Divide ,US,North Dakota,United States
+2002,ND,Dunn ,US,North Dakota,United States
+2003,ND,Eddy ,US,North Dakota,United States
+2004,ND,Emmons ,US,North Dakota,United States
+2005,ND,Foster ,US,North Dakota,United States
+2006,ND,Golden Valley ,US,North Dakota,United States
+2007,ND,Grand Forks ,US,North Dakota,United States
+2008,ND,Grant ,US,North Dakota,United States
+2009,ND,Griggs ,US,North Dakota,United States
+2010,ND,Hettinger ,US,North Dakota,United States
+2011,ND,Kidder ,US,North Dakota,United States
+2012,ND,LaMoure ,US,North Dakota,United States
+2013,ND,Logan ,US,North Dakota,United States
+2014,ND,McHenry ,US,North Dakota,United States
+2015,ND,McIntosh ,US,North Dakota,United States
+2016,ND,McKenzie ,US,North Dakota,United States
+2017,ND,McLean ,US,North Dakota,United States
+2018,ND,Mercer ,US,North Dakota,United States
+2019,ND,Morton ,US,North Dakota,United States
+2020,ND,Mountrail ,US,North Dakota,United States
+2021,ND,Nelson ,US,North Dakota,United States
+2022,ND,Oliver ,US,North Dakota,United States
+2023,ND,Pembina ,US,North Dakota,United States
+2024,ND,Pierce ,US,North Dakota,United States
+2025,ND,Ramsey ,US,North Dakota,United States
+2026,ND,Ransom ,US,North Dakota,United States
+2027,ND,Renville ,US,North Dakota,United States
+2028,ND,Richland ,US,North Dakota,United States
+2029,ND,Rolette ,US,North Dakota,United States
+2030,ND,Sargent ,US,North Dakota,United States
+2031,ND,Sheridan ,US,North Dakota,United States
+2032,ND,Sioux ,US,North Dakota,United States
+2033,ND,Slope ,US,North Dakota,United States
+2034,ND,Stark ,US,North Dakota,United States
+2035,ND,Steele ,US,North Dakota,United States
+2036,ND,Stutsman ,US,North Dakota,United States
+2037,ND,Towner ,US,North Dakota,United States
+2038,ND,Traill ,US,North Dakota,United States
+2039,ND,Walsh ,US,North Dakota,United States
+2040,ND,Ward ,US,North Dakota,United States
+2041,ND,Wells ,US,North Dakota,United States
+2042,ND,Williams ,US,North Dakota,United States
+2043,OH,Adams ,US,Ohio,United States
+2044,OH,Allen ,US,Ohio,United States
+2045,OH,Ashland ,US,Ohio,United States
+2046,OH,Ashtabula ,US,Ohio,United States
+2047,OH,Athens ,US,Ohio,United States
+2048,OH,Auglaize ,US,Ohio,United States
+2049,OH,Belmont ,US,Ohio,United States
+2050,OH,Brown ,US,Ohio,United States
+2051,OH,Butler ,US,Ohio,United States
+2052,OH,Carroll ,US,Ohio,United States
+2053,OH,Champaign ,US,Ohio,United States
+2054,OH,Clark ,US,Ohio,United States
+2055,OH,Clermont ,US,Ohio,United States
+2056,OH,Clinton ,US,Ohio,United States
+2057,OH,Columbiana ,US,Ohio,United States
+2058,OH,Coshocton ,US,Ohio,United States
+2059,OH,Crawford ,US,Ohio,United States
+2060,OH,Cuyahoga ,US,Ohio,United States
+2061,OH,Darke ,US,Ohio,United States
+2062,OH,Defiance ,US,Ohio,United States
+2063,OH,Delaware ,US,Ohio,United States
+2064,OH,Erie ,US,Ohio,United States
+2065,OH,Fairfield ,US,Ohio,United States
+2066,OH,Fayette ,US,Ohio,United States
+2067,OH,Franklin ,US,Ohio,United States
+2068,OH,Fulton ,US,Ohio,United States
+2069,OH,Gallia ,US,Ohio,United States
+2070,OH,Geauga ,US,Ohio,United States
+2071,OH,Greene ,US,Ohio,United States
+2072,OH,Guernsey ,US,Ohio,United States
+2073,OH,Hamilton ,US,Ohio,United States
+2074,OH,Hancock ,US,Ohio,United States
+2075,OH,Hardin ,US,Ohio,United States
+2076,OH,Harrison ,US,Ohio,United States
+2077,OH,Henry ,US,Ohio,United States
+2078,OH,Highland ,US,Ohio,United States
+2079,OH,Hocking ,US,Ohio,United States
+2080,OH,Holmes ,US,Ohio,United States
+2081,OH,Huron ,US,Ohio,United States
+2082,OH,Jackson ,US,Ohio,United States
+2083,OH,Jefferson ,US,Ohio,United States
+2084,OH,Knox ,US,Ohio,United States
+2085,OH,Lake ,US,Ohio,United States
+2086,OH,Lawrence ,US,Ohio,United States
+2087,OH,Licking ,US,Ohio,United States
+2088,OH,Logan ,US,Ohio,United States
+2089,OH,Lorain ,US,Ohio,United States
+2090,OH,Lucas ,US,Ohio,United States
+2091,OH,Madison ,US,Ohio,United States
+2092,OH,Mahoning ,US,Ohio,United States
+2093,OH,Marion ,US,Ohio,United States
+2094,OH,Medina ,US,Ohio,United States
+2095,OH,Meigs ,US,Ohio,United States
+2096,OH,Mercer ,US,Ohio,United States
+2097,OH,Miami ,US,Ohio,United States
+2098,OH,Monroe ,US,Ohio,United States
+2099,OH,Montgomery ,US,Ohio,United States
+2100,OH,Morgan ,US,Ohio,United States
+2101,OH,Morrow ,US,Ohio,United States
+2102,OH,Muskingum ,US,Ohio,United States
+2103,OH,Noble ,US,Ohio,United States
+2104,OH,Ottawa ,US,Ohio,United States
+2105,OH,Paulding ,US,Ohio,United States
+2106,OH,Perry ,US,Ohio,United States
+2107,OH,Pickaway ,US,Ohio,United States
+2108,OH,Pike ,US,Ohio,United States
+2109,OH,Portage ,US,Ohio,United States
+2110,OH,Preble ,US,Ohio,United States
+2111,OH,Putnam ,US,Ohio,United States
+2112,OH,Richland ,US,Ohio,United States
+2113,OH,Ross ,US,Ohio,United States
+2114,OH,Sandusky ,US,Ohio,United States
+2115,OH,Scioto ,US,Ohio,United States
+2116,OH,Seneca ,US,Ohio,United States
+2117,OH,Shelby ,US,Ohio,United States
+2118,OH,Stark ,US,Ohio,United States
+2119,OH,Summit ,US,Ohio,United States
+2120,OH,Trumbull ,US,Ohio,United States
+2121,OH,Tuscarawas ,US,Ohio,United States
+2122,OH,Union ,US,Ohio,United States
+2123,OH,Van Wert ,US,Ohio,United States
+2124,OH,Vinton ,US,Ohio,United States
+2125,OH,Warren ,US,Ohio,United States
+2126,OH,Washington ,US,Ohio,United States
+2127,OH,Wayne ,US,Ohio,United States
+2128,OH,Williams ,US,Ohio,United States
+2129,OH,Wood ,US,Ohio,United States
+2130,OH,Wyandot ,US,Ohio,United States
+2131,OK,Adair ,US,Oklahoma,United States
+2132,OK,Alfalfa ,US,Oklahoma,United States
+2133,OK,Atoka ,US,Oklahoma,United States
+2134,OK,Beaver ,US,Oklahoma,United States
+2135,OK,Beckham ,US,Oklahoma,United States
+2136,OK,Blaine ,US,Oklahoma,United States
+2137,OK,Bryan ,US,Oklahoma,United States
+2138,OK,Caddo ,US,Oklahoma,United States
+2139,OK,Canadian ,US,Oklahoma,United States
+2140,OK,Carter ,US,Oklahoma,United States
+2141,OK,Cherokee ,US,Oklahoma,United States
+2142,OK,Choctaw ,US,Oklahoma,United States
+2143,OK,Cimarron ,US,Oklahoma,United States
+2144,OK,Cleveland ,US,Oklahoma,United States
+2145,OK,Coal ,US,Oklahoma,United States
+2146,OK,Comanche ,US,Oklahoma,United States
+2147,OK,Cotton ,US,Oklahoma,United States
+2148,OK,Craig ,US,Oklahoma,United States
+2149,OK,Creek ,US,Oklahoma,United States
+2150,OK,Custer ,US,Oklahoma,United States
+2151,OK,Delaware ,US,Oklahoma,United States
+2152,OK,Dewey ,US,Oklahoma,United States
+2153,OK,Ellis ,US,Oklahoma,United States
+2154,OK,Garfield ,US,Oklahoma,United States
+2155,OK,Garvin ,US,Oklahoma,United States
+2156,OK,Grady ,US,Oklahoma,United States
+2157,OK,Grant ,US,Oklahoma,United States
+2158,OK,Greer ,US,Oklahoma,United States
+2159,OK,Harmon ,US,Oklahoma,United States
+2160,OK,Harper ,US,Oklahoma,United States
+2161,OK,Haskell ,US,Oklahoma,United States
+2162,OK,Hughes ,US,Oklahoma,United States
+2163,OK,Jackson ,US,Oklahoma,United States
+2164,OK,Jefferson ,US,Oklahoma,United States
+2165,OK,Johnston ,US,Oklahoma,United States
+2166,OK,Kay ,US,Oklahoma,United States
+2167,OK,Kingfisher ,US,Oklahoma,United States
+2168,OK,Kiowa ,US,Oklahoma,United States
+2169,OK,Latimer ,US,Oklahoma,United States
+2170,OK,Le Flore ,US,Oklahoma,United States
+2171,OK,Lincoln ,US,Oklahoma,United States
+2172,OK,Logan ,US,Oklahoma,United States
+2173,OK,Love ,US,Oklahoma,United States
+2174,OK,McClain ,US,Oklahoma,United States
+2175,OK,McCurtain ,US,Oklahoma,United States
+2176,OK,McIntosh ,US,Oklahoma,United States
+2177,OK,Major ,US,Oklahoma,United States
+2178,OK,Marshall ,US,Oklahoma,United States
+2179,OK,Mayes ,US,Oklahoma,United States
+2180,OK,Murray ,US,Oklahoma,United States
+2181,OK,Muskogee ,US,Oklahoma,United States
+2182,OK,Noble ,US,Oklahoma,United States
+2183,OK,Nowata ,US,Oklahoma,United States
+2184,OK,Okfuskee ,US,Oklahoma,United States
+2185,OK,Oklahoma ,US,Oklahoma,United States
+2186,OK,Okmulgee ,US,Oklahoma,United States
+2187,OK,Osage ,US,Oklahoma,United States
+2188,OK,Ottawa ,US,Oklahoma,United States
+2189,OK,Pawnee ,US,Oklahoma,United States
+2190,OK,Payne ,US,Oklahoma,United States
+2191,OK,Pittsburg ,US,Oklahoma,United States
+2192,OK,Pontotoc ,US,Oklahoma,United States
+2193,OK,Pottawatomie ,US,Oklahoma,United States
+2194,OK,Pushmataha ,US,Oklahoma,United States
+2195,OK,Roger Mills ,US,Oklahoma,United States
+2196,OK,Rogers ,US,Oklahoma,United States
+2197,OK,Seminole ,US,Oklahoma,United States
+2198,OK,Sequoyah ,US,Oklahoma,United States
+2199,OK,Stephens ,US,Oklahoma,United States
+2200,OK,Texas ,US,Oklahoma,United States
+2201,OK,Tillman ,US,Oklahoma,United States
+2202,OK,Tulsa ,US,Oklahoma,United States
+2203,OK,Wagoner ,US,Oklahoma,United States
+2204,OK,Washington ,US,Oklahoma,United States
+2205,OK,Washita ,US,Oklahoma,United States
+2206,OK,Woods ,US,Oklahoma,United States
+2207,OK,Woodward ,US,Oklahoma,United States
+2208,OR,Baker ,US,Oregon,United States
+2209,OR,Benton ,US,Oregon,United States
+2210,OR,Clackamas ,US,Oregon,United States
+2211,OR,Clatsop ,US,Oregon,United States
+2212,OR,Columbia ,US,Oregon,United States
+2213,OR,Coos ,US,Oregon,United States
+2214,OR,Crook ,US,Oregon,United States
+2215,OR,Curry ,US,Oregon,United States
+2216,OR,Deschutes ,US,Oregon,United States
+2217,OR,Douglas ,US,Oregon,United States
+2218,OR,Gilliam ,US,Oregon,United States
+2219,OR,Grant ,US,Oregon,United States
+2220,OR,Harney ,US,Oregon,United States
+2221,OR,Hood River ,US,Oregon,United States
+2222,OR,Jackson ,US,Oregon,United States
+2223,OR,Jefferson ,US,Oregon,United States
+2224,OR,Josephine ,US,Oregon,United States
+2225,OR,Klamath ,US,Oregon,United States
+2226,OR,Lake ,US,Oregon,United States
+2227,OR,Lane ,US,Oregon,United States
+2228,OR,Lincoln ,US,Oregon,United States
+2229,OR,Linn ,US,Oregon,United States
+2230,OR,Malheur ,US,Oregon,United States
+2231,OR,Marion ,US,Oregon,United States
+2232,OR,Morrow ,US,Oregon,United States
+2233,OR,Multnomah ,US,Oregon,United States
+2234,OR,Polk ,US,Oregon,United States
+2235,OR,Sherman ,US,Oregon,United States
+2236,OR,Tillamook ,US,Oregon,United States
+2237,OR,Umatilla ,US,Oregon,United States
+2238,OR,Union ,US,Oregon,United States
+2239,OR,Wallowa ,US,Oregon,United States
+2240,OR,Wasco ,US,Oregon,United States
+2241,OR,Washington ,US,Oregon,United States
+2242,OR,Wheeler ,US,Oregon,United States
+2243,OR,Yamhill ,US,Oregon,United States
+2244,PA,Adams ,US,Pennsylvania,United States
+2245,PA,Allegheny ,US,Pennsylvania,United States
+2246,PA,Armstrong ,US,Pennsylvania,United States
+2247,PA,Beaver ,US,Pennsylvania,United States
+2248,PA,Bedford ,US,Pennsylvania,United States
+2249,PA,Berks ,US,Pennsylvania,United States
+2250,PA,Blair ,US,Pennsylvania,United States
+2251,PA,Bradford ,US,Pennsylvania,United States
+2252,PA,Bucks ,US,Pennsylvania,United States
+2253,PA,Butler ,US,Pennsylvania,United States
+2254,PA,Cambria ,US,Pennsylvania,United States
+2255,PA,Cameron ,US,Pennsylvania,United States
+2256,PA,Carbon ,US,Pennsylvania,United States
+2257,PA,Centre ,US,Pennsylvania,United States
+2258,PA,Chester ,US,Pennsylvania,United States
+2259,PA,Clarion ,US,Pennsylvania,United States
+2260,PA,Clearfield ,US,Pennsylvania,United States
+2261,PA,Clinton ,US,Pennsylvania,United States
+2262,PA,Columbia ,US,Pennsylvania,United States
+2263,PA,Crawford ,US,Pennsylvania,United States
+2264,PA,Cumberland ,US,Pennsylvania,United States
+2265,PA,Dauphin ,US,Pennsylvania,United States
+2266,PA,Delaware ,US,Pennsylvania,United States
+2267,PA,Elk ,US,Pennsylvania,United States
+2268,PA,Erie ,US,Pennsylvania,United States
+2269,PA,Fayette ,US,Pennsylvania,United States
+2270,PA,Forest ,US,Pennsylvania,United States
+2271,PA,Franklin ,US,Pennsylvania,United States
+2272,PA,Fulton ,US,Pennsylvania,United States
+2273,PA,Greene ,US,Pennsylvania,United States
+2274,PA,Huntingdon ,US,Pennsylvania,United States
+2275,PA,Indiana ,US,Pennsylvania,United States
+2276,PA,Jefferson ,US,Pennsylvania,United States
+2277,PA,Juniata ,US,Pennsylvania,United States
+2278,PA,Lackawanna ,US,Pennsylvania,United States
+2279,PA,Lancaster ,US,Pennsylvania,United States
+2280,PA,Lawrence ,US,Pennsylvania,United States
+2281,PA,Lebanon ,US,Pennsylvania,United States
+2282,PA,Lehigh ,US,Pennsylvania,United States
+2283,PA,Luzerne ,US,Pennsylvania,United States
+2284,PA,Lycoming ,US,Pennsylvania,United States
+2285,PA,McKean ,US,Pennsylvania,United States
+2286,PA,Mercer ,US,Pennsylvania,United States
+2287,PA,Mifflin ,US,Pennsylvania,United States
+2288,PA,Monroe ,US,Pennsylvania,United States
+2289,PA,Montgomery ,US,Pennsylvania,United States
+2290,PA,Montour ,US,Pennsylvania,United States
+2291,PA,Northampton ,US,Pennsylvania,United States
+2292,PA,Northumberland ,US,Pennsylvania,United States
+2293,PA,Perry ,US,Pennsylvania,United States
+2294,PA,Philadelphia ,US,Pennsylvania,United States
+2295,PA,Pike ,US,Pennsylvania,United States
+2296,PA,Potter ,US,Pennsylvania,United States
+2297,PA,Schuylkill ,US,Pennsylvania,United States
+2298,PA,Snyder ,US,Pennsylvania,United States
+2299,PA,Somerset ,US,Pennsylvania,United States
+2300,PA,Sullivan ,US,Pennsylvania,United States
+2301,PA,Susquehanna ,US,Pennsylvania,United States
+2302,PA,Tioga ,US,Pennsylvania,United States
+2303,PA,Union ,US,Pennsylvania,United States
+2304,PA,Venango ,US,Pennsylvania,United States
+2305,PA,Warren ,US,Pennsylvania,United States
+2306,PA,Washington ,US,Pennsylvania,United States
+2307,PA,Wayne ,US,Pennsylvania,United States
+2308,PA,Westmoreland ,US,Pennsylvania,United States
+2309,PA,Wyoming ,US,Pennsylvania,United States
+2310,PA,York ,US,Pennsylvania,United States
+2311,RI,Bristol ,US,Rhode Island,United States
+2312,RI,Kent ,US,Rhode Island,United States
+2313,RI,Newport ,US,Rhode Island,United States
+2314,RI,Providence ,US,Rhode Island,United States
+2315,RI,Washington ,US,Rhode Island,United States
+2316,SC,Abbeville ,US,South Carolina,United States
+2317,SC,Aiken ,US,South Carolina,United States
+2318,SC,Allendale ,US,South Carolina,United States
+2319,SC,Anderson ,US,South Carolina,United States
+2320,SC,Bamberg ,US,South Carolina,United States
+2321,SC,Barnwell ,US,South Carolina,United States
+2322,SC,Beaufort ,US,South Carolina,United States
+2323,SC,Berkeley ,US,South Carolina,United States
+2324,SC,Calhoun ,US,South Carolina,United States
+2325,SC,Charleston ,US,South Carolina,United States
+2326,SC,Cherokee ,US,South Carolina,United States
+2327,SC,Chester ,US,South Carolina,United States
+2328,SC,Chesterfield ,US,South Carolina,United States
+2329,SC,Clarendon ,US,South Carolina,United States
+2330,SC,Colleton ,US,South Carolina,United States
+2331,SC,Darlington ,US,South Carolina,United States
+2332,SC,Dillon ,US,South Carolina,United States
+2333,SC,Dorchester ,US,South Carolina,United States
+2334,SC,Edgefield ,US,South Carolina,United States
+2335,SC,Fairfield ,US,South Carolina,United States
+2336,SC,Florence ,US,South Carolina,United States
+2337,SC,Georgetown ,US,South Carolina,United States
+2338,SC,Greenville ,US,South Carolina,United States
+2339,SC,Greenwood ,US,South Carolina,United States
+2340,SC,Hampton ,US,South Carolina,United States
+2341,SC,Horry ,US,South Carolina,United States
+2342,SC,Jasper ,US,South Carolina,United States
+2343,SC,Kershaw ,US,South Carolina,United States
+2344,SC,Lancaster ,US,South Carolina,United States
+2345,SC,Laurens ,US,South Carolina,United States
+2346,SC,Lee ,US,South Carolina,United States
+2347,SC,Lexington ,US,South Carolina,United States
+2348,SC,McCormick ,US,South Carolina,United States
+2349,SC,Marion ,US,South Carolina,United States
+2350,SC,Marlboro ,US,South Carolina,United States
+2351,SC,Newberry ,US,South Carolina,United States
+2352,SC,Oconee ,US,South Carolina,United States
+2353,SC,Orangeburg ,US,South Carolina,United States
+2354,SC,Pickens ,US,South Carolina,United States
+2355,SC,Richland ,US,South Carolina,United States
+2356,SC,Saluda ,US,South Carolina,United States
+2357,SC,Spartanburg ,US,South Carolina,United States
+2358,SC,Sumter ,US,South Carolina,United States
+2359,SC,Union ,US,South Carolina,United States
+2360,SC,Williamsburg ,US,South Carolina,United States
+2361,SC,York ,US,South Carolina,United States
+2362,SD,Aurora ,US,South Dakota,United States
+2363,SD,Beadle ,US,South Dakota,United States
+2364,SD,Bennett ,US,South Dakota,United States
+2365,SD,Bon Homme ,US,South Dakota,United States
+2366,SD,Brookings ,US,South Dakota,United States
+2367,SD,Brown ,US,South Dakota,United States
+2368,SD,Brule ,US,South Dakota,United States
+2369,SD,Buffalo ,US,South Dakota,United States
+2370,SD,Butte ,US,South Dakota,United States
+2371,SD,Campbell ,US,South Dakota,United States
+2372,SD,Charles Mix ,US,South Dakota,United States
+2373,SD,Clark ,US,South Dakota,United States
+2374,SD,Clay ,US,South Dakota,United States
+2375,SD,Codington ,US,South Dakota,United States
+2376,SD,Corson ,US,South Dakota,United States
+2377,SD,Custer ,US,South Dakota,United States
+2378,SD,Davison ,US,South Dakota,United States
+2379,SD,Day ,US,South Dakota,United States
+2380,SD,Deuel ,US,South Dakota,United States
+2381,SD,Dewey ,US,South Dakota,United States
+2382,SD,Douglas ,US,South Dakota,United States
+2383,SD,Edmunds ,US,South Dakota,United States
+2384,SD,Fall River ,US,South Dakota,United States
+2385,SD,Faulk ,US,South Dakota,United States
+2386,SD,Grant ,US,South Dakota,United States
+2387,SD,Gregory ,US,South Dakota,United States
+2388,SD,Haakon ,US,South Dakota,United States
+2389,SD,Hamlin ,US,South Dakota,United States
+2390,SD,Hand ,US,South Dakota,United States
+2391,SD,Hanson ,US,South Dakota,United States
+2392,SD,Harding ,US,South Dakota,United States
+2393,SD,Hughes ,US,South Dakota,United States
+2394,SD,Hutchinson ,US,South Dakota,United States
+2395,SD,Hyde ,US,South Dakota,United States
+2396,SD,Jackson ,US,South Dakota,United States
+2397,SD,Jerauld ,US,South Dakota,United States
+2398,SD,Jones ,US,South Dakota,United States
+2399,SD,Kingsbury ,US,South Dakota,United States
+2400,SD,Lake ,US,South Dakota,United States
+2401,SD,Lawrence ,US,South Dakota,United States
+2402,SD,Lincoln ,US,South Dakota,United States
+2403,SD,Lyman ,US,South Dakota,United States
+2404,SD,McCook ,US,South Dakota,United States
+2405,SD,McPherson ,US,South Dakota,United States
+2406,SD,Marshall ,US,South Dakota,United States
+2407,SD,Meade ,US,South Dakota,United States
+2408,SD,Mellette ,US,South Dakota,United States
+2409,SD,Miner ,US,South Dakota,United States
+2410,SD,Minnehaha ,US,South Dakota,United States
+2411,SD,Moody ,US,South Dakota,United States
+2412,SD,Pennington ,US,South Dakota,United States
+2413,SD,Perkins ,US,South Dakota,United States
+2414,SD,Potter ,US,South Dakota,United States
+2415,SD,Roberts ,US,South Dakota,United States
+2416,SD,Sanborn ,US,South Dakota,United States
+2417,SD,Shannon ,US,South Dakota,United States
+2418,SD,Spink ,US,South Dakota,United States
+2419,SD,Stanley ,US,South Dakota,United States
+2420,SD,Sully ,US,South Dakota,United States
+2421,SD,Todd ,US,South Dakota,United States
+2422,SD,Tripp ,US,South Dakota,United States
+2423,SD,Turner ,US,South Dakota,United States
+2424,SD,Union ,US,South Dakota,United States
+2425,SD,Walworth ,US,South Dakota,United States
+2426,SD,Yankton ,US,South Dakota,United States
+2427,SD,Ziebach ,US,South Dakota,United States
+2428,TN,Anderson ,US,Tennessee,United States
+2429,TN,Bedford ,US,Tennessee,United States
+2430,TN,Benton ,US,Tennessee,United States
+2431,TN,Bledsoe ,US,Tennessee,United States
+2432,TN,Blount ,US,Tennessee,United States
+2433,TN,Bradley ,US,Tennessee,United States
+2434,TN,Campbell ,US,Tennessee,United States
+2435,TN,Cannon ,US,Tennessee,United States
+2436,TN,Carroll ,US,Tennessee,United States
+2437,TN,Carter ,US,Tennessee,United States
+2438,TN,Cheatham ,US,Tennessee,United States
+2439,TN,Chester ,US,Tennessee,United States
+2440,TN,Claiborne ,US,Tennessee,United States
+2441,TN,Clay ,US,Tennessee,United States
+2442,TN,Cocke ,US,Tennessee,United States
+2443,TN,Coffee ,US,Tennessee,United States
+2444,TN,Crockett ,US,Tennessee,United States
+2445,TN,Cumberland ,US,Tennessee,United States
+2446,TN,Davidson ,US,Tennessee,United States
+2447,TN,Decatur ,US,Tennessee,United States
+2448,TN,DeKalb ,US,Tennessee,United States
+2449,TN,Dickson ,US,Tennessee,United States
+2450,TN,Dyer ,US,Tennessee,United States
+2451,TN,Fayette ,US,Tennessee,United States
+2452,TN,Fentress ,US,Tennessee,United States
+2453,TN,Franklin ,US,Tennessee,United States
+2454,TN,Gibson ,US,Tennessee,United States
+2455,TN,Giles ,US,Tennessee,United States
+2456,TN,Grainger ,US,Tennessee,United States
+2457,TN,Greene ,US,Tennessee,United States
+2458,TN,Grundy ,US,Tennessee,United States
+2459,TN,Hamblen ,US,Tennessee,United States
+2460,TN,Hamilton ,US,Tennessee,United States
+2461,TN,Hancock ,US,Tennessee,United States
+2462,TN,Hardeman ,US,Tennessee,United States
+2463,TN,Hardin ,US,Tennessee,United States
+2464,TN,Hawkins ,US,Tennessee,United States
+2465,TN,Haywood ,US,Tennessee,United States
+2466,TN,Henderson ,US,Tennessee,United States
+2467,TN,Henry ,US,Tennessee,United States
+2468,TN,Hickman ,US,Tennessee,United States
+2469,TN,Houston ,US,Tennessee,United States
+2470,TN,Humphreys ,US,Tennessee,United States
+2471,TN,Jackson ,US,Tennessee,United States
+2472,TN,Jefferson ,US,Tennessee,United States
+2473,TN,Johnson ,US,Tennessee,United States
+2474,TN,Knox ,US,Tennessee,United States
+2475,TN,Lake ,US,Tennessee,United States
+2476,TN,Lauderdale ,US,Tennessee,United States
+2477,TN,Lawrence ,US,Tennessee,United States
+2478,TN,Lewis ,US,Tennessee,United States
+2479,TN,Lincoln ,US,Tennessee,United States
+2480,TN,Loudon ,US,Tennessee,United States
+2481,TN,McMinn ,US,Tennessee,United States
+2482,TN,McNairy ,US,Tennessee,United States
+2483,TN,Macon ,US,Tennessee,United States
+2484,TN,Madison ,US,Tennessee,United States
+2485,TN,Marion ,US,Tennessee,United States
+2486,TN,Marshall ,US,Tennessee,United States
+2487,TN,Maury ,US,Tennessee,United States
+2488,TN,Meigs ,US,Tennessee,United States
+2489,TN,Monroe ,US,Tennessee,United States
+2490,TN,Montgomery ,US,Tennessee,United States
+2491,TN,Moore ,US,Tennessee,United States
+2492,TN,Morgan ,US,Tennessee,United States
+2493,TN,Obion ,US,Tennessee,United States
+2494,TN,Overton ,US,Tennessee,United States
+2495,TN,Perry ,US,Tennessee,United States
+2496,TN,Pickett ,US,Tennessee,United States
+2497,TN,Polk ,US,Tennessee,United States
+2498,TN,Putnam ,US,Tennessee,United States
+2499,TN,Rhea ,US,Tennessee,United States
+2500,TN,Roane ,US,Tennessee,United States
+2501,TN,Robertson ,US,Tennessee,United States
+2502,TN,Rutherford ,US,Tennessee,United States
+2503,TN,Scott ,US,Tennessee,United States
+2504,TN,Sequatchie ,US,Tennessee,United States
+2505,TN,Sevier ,US,Tennessee,United States
+2506,TN,Shelby ,US,Tennessee,United States
+2507,TN,Smith ,US,Tennessee,United States
+2508,TN,Stewart ,US,Tennessee,United States
+2509,TN,Sullivan ,US,Tennessee,United States
+2510,TN,Sumner ,US,Tennessee,United States
+2511,TN,Tipton ,US,Tennessee,United States
+2512,TN,Trousdale ,US,Tennessee,United States
+2513,TN,Unicoi ,US,Tennessee,United States
+2514,TN,Union ,US,Tennessee,United States
+2515,TN,Van Buren ,US,Tennessee,United States
+2516,TN,Warren ,US,Tennessee,United States
+2517,TN,Washington ,US,Tennessee,United States
+2518,TN,Wayne ,US,Tennessee,United States
+2519,TN,Weakley ,US,Tennessee,United States
+2520,TN,White ,US,Tennessee,United States
+2521,TN,Williamson ,US,Tennessee,United States
+2522,TN,Wilson ,US,Tennessee,United States
+2523,TX,Anderson ,US,Texas,United States
+2524,TX,Andrews ,US,Texas,United States
+2525,TX,Angelina ,US,Texas,United States
+2526,TX,Aransas ,US,Texas,United States
+2527,TX,Archer ,US,Texas,United States
+2528,TX,Armstrong ,US,Texas,United States
+2529,TX,Atascosa ,US,Texas,United States
+2530,TX,Austin ,US,Texas,United States
+2531,TX,Bailey ,US,Texas,United States
+2532,TX,Bandera ,US,Texas,United States
+2533,TX,Bastrop ,US,Texas,United States
+2534,TX,Baylor ,US,Texas,United States
+2535,TX,Bee ,US,Texas,United States
+2536,TX,Bell ,US,Texas,United States
+2537,TX,Bexar ,US,Texas,United States
+2538,TX,Blanco ,US,Texas,United States
+2539,TX,Borden ,US,Texas,United States
+2540,TX,Bosque ,US,Texas,United States
+2541,TX,Bowie ,US,Texas,United States
+2542,TX,Brazoria ,US,Texas,United States
+2543,TX,Brazos ,US,Texas,United States
+2544,TX,Brewster ,US,Texas,United States
+2545,TX,Briscoe ,US,Texas,United States
+2546,TX,Brooks ,US,Texas,United States
+2547,TX,Brown ,US,Texas,United States
+2548,TX,Burleson ,US,Texas,United States
+2549,TX,Burnet ,US,Texas,United States
+2550,TX,Caldwell ,US,Texas,United States
+2551,TX,Calhoun ,US,Texas,United States
+2552,TX,Callahan ,US,Texas,United States
+2553,TX,Cameron ,US,Texas,United States
+2554,TX,Camp ,US,Texas,United States
+2555,TX,Carson ,US,Texas,United States
+2556,TX,Cass ,US,Texas,United States
+2557,TX,Castro ,US,Texas,United States
+2558,TX,Chambers ,US,Texas,United States
+2559,TX,Cherokee ,US,Texas,United States
+2560,TX,Childress ,US,Texas,United States
+2561,TX,Clay ,US,Texas,United States
+2562,TX,Cochran ,US,Texas,United States
+2563,TX,Coke ,US,Texas,United States
+2564,TX,Coleman ,US,Texas,United States
+2565,TX,Collin ,US,Texas,United States
+2566,TX,Collingsworth ,US,Texas,United States
+2567,TX,Colorado ,US,Texas,United States
+2568,TX,Comal ,US,Texas,United States
+2569,TX,Comanche ,US,Texas,United States
+2570,TX,Concho ,US,Texas,United States
+2571,TX,Cooke ,US,Texas,United States
+2572,TX,Coryell ,US,Texas,United States
+2573,TX,Cottle ,US,Texas,United States
+2574,TX,Crane ,US,Texas,United States
+2575,TX,Crockett ,US,Texas,United States
+2576,TX,Crosby ,US,Texas,United States
+2577,TX,Culberson ,US,Texas,United States
+2578,TX,Dallam ,US,Texas,United States
+2579,TX,Dallas ,US,Texas,United States
+2580,TX,Dawson ,US,Texas,United States
+2581,TX,Deaf Smith ,US,Texas,United States
+2582,TX,Delta ,US,Texas,United States
+2583,TX,Denton ,US,Texas,United States
+2584,TX,DeWitt ,US,Texas,United States
+2585,TX,Dickens ,US,Texas,United States
+2586,TX,Dimmit ,US,Texas,United States
+2587,TX,Donley ,US,Texas,United States
+2588,TX,Duval ,US,Texas,United States
+2589,TX,Eastland ,US,Texas,United States
+2590,TX,Ector ,US,Texas,United States
+2591,TX,Edwards ,US,Texas,United States
+2592,TX,Ellis ,US,Texas,United States
+2593,TX,El Paso ,US,Texas,United States
+2594,TX,Erath ,US,Texas,United States
+2595,TX,Falls ,US,Texas,United States
+2596,TX,Fannin ,US,Texas,United States
+2597,TX,Fayette ,US,Texas,United States
+2598,TX,Fisher ,US,Texas,United States
+2599,TX,Floyd ,US,Texas,United States
+2600,TX,Foard ,US,Texas,United States
+2601,TX,Fort Bend ,US,Texas,United States
+2602,TX,Franklin ,US,Texas,United States
+2603,TX,Freestone ,US,Texas,United States
+2604,TX,Frio ,US,Texas,United States
+2605,TX,Gaines ,US,Texas,United States
+2606,TX,Galveston ,US,Texas,United States
+2607,TX,Garza ,US,Texas,United States
+2608,TX,Gillespie ,US,Texas,United States
+2609,TX,Glasscock ,US,Texas,United States
+2610,TX,Goliad ,US,Texas,United States
+2611,TX,Gonzales ,US,Texas,United States
+2612,TX,Gray ,US,Texas,United States
+2613,TX,Grayson ,US,Texas,United States
+2614,TX,Gregg ,US,Texas,United States
+2615,TX,Grimes ,US,Texas,United States
+2616,TX,Guadalupe ,US,Texas,United States
+2617,TX,Hale ,US,Texas,United States
+2618,TX,Hall ,US,Texas,United States
+2619,TX,Hamilton ,US,Texas,United States
+2620,TX,Hansford ,US,Texas,United States
+2621,TX,Hardeman ,US,Texas,United States
+2622,TX,Hardin ,US,Texas,United States
+2623,TX,Harris ,US,Texas,United States
+2624,TX,Harrison ,US,Texas,United States
+2625,TX,Hartley ,US,Texas,United States
+2626,TX,Haskell ,US,Texas,United States
+2627,TX,Hays ,US,Texas,United States
+2628,TX,Hemphill ,US,Texas,United States
+2629,TX,Henderson ,US,Texas,United States
+2630,TX,Hidalgo ,US,Texas,United States
+2631,TX,Hill ,US,Texas,United States
+2632,TX,Hockley ,US,Texas,United States
+2633,TX,Hood ,US,Texas,United States
+2634,TX,Hopkins ,US,Texas,United States
+2635,TX,Houston ,US,Texas,United States
+2636,TX,Howard ,US,Texas,United States
+2637,TX,Hudspeth ,US,Texas,United States
+2638,TX,Hunt ,US,Texas,United States
+2639,TX,Hutchinson ,US,Texas,United States
+2640,TX,Irion ,US,Texas,United States
+2641,TX,Jack ,US,Texas,United States
+2642,TX,Jackson ,US,Texas,United States
+2643,TX,Jasper ,US,Texas,United States
+2644,TX,Jeff Davis ,US,Texas,United States
+2645,TX,Jefferson ,US,Texas,United States
+2646,TX,Jim Hogg ,US,Texas,United States
+2647,TX,Jim Wells ,US,Texas,United States
+2648,TX,Johnson ,US,Texas,United States
+2649,TX,Jones ,US,Texas,United States
+2650,TX,Karnes ,US,Texas,United States
+2651,TX,Kaufman ,US,Texas,United States
+2652,TX,Kendall ,US,Texas,United States
+2653,TX,Kenedy ,US,Texas,United States
+2654,TX,Kent ,US,Texas,United States
+2655,TX,Kerr ,US,Texas,United States
+2656,TX,Kimble ,US,Texas,United States
+2657,TX,King ,US,Texas,United States
+2658,TX,Kinney ,US,Texas,United States
+2659,TX,Kleberg ,US,Texas,United States
+2660,TX,Knox ,US,Texas,United States
+2661,TX,Lamar ,US,Texas,United States
+2662,TX,Lamb ,US,Texas,United States
+2663,TX,Lampasas ,US,Texas,United States
+2664,TX,La Salle ,US,Texas,United States
+2665,TX,Lavaca ,US,Texas,United States
+2666,TX,Lee ,US,Texas,United States
+2667,TX,Leon ,US,Texas,United States
+2668,TX,Liberty ,US,Texas,United States
+2669,TX,Limestone ,US,Texas,United States
+2670,TX,Lipscomb ,US,Texas,United States
+2671,TX,Live Oak ,US,Texas,United States
+2672,TX,Llano ,US,Texas,United States
+2673,TX,Loving ,US,Texas,United States
+2674,TX,Lubbock ,US,Texas,United States
+2675,TX,Lynn ,US,Texas,United States
+2676,TX,McCulloch ,US,Texas,United States
+2677,TX,McLennan ,US,Texas,United States
+2678,TX,McMullen ,US,Texas,United States
+2679,TX,Madison ,US,Texas,United States
+2680,TX,Marion ,US,Texas,United States
+2681,TX,Martin ,US,Texas,United States
+2682,TX,Mason ,US,Texas,United States
+2683,TX,Matagorda ,US,Texas,United States
+2684,TX,Maverick ,US,Texas,United States
+2685,TX,Medina ,US,Texas,United States
+2686,TX,Menard ,US,Texas,United States
+2687,TX,Midland ,US,Texas,United States
+2688,TX,Milam ,US,Texas,United States
+2689,TX,Mills ,US,Texas,United States
+2690,TX,Mitchell ,US,Texas,United States
+2691,TX,Montague ,US,Texas,United States
+2692,TX,Montgomery ,US,Texas,United States
+2693,TX,Moore ,US,Texas,United States
+2694,TX,Morris ,US,Texas,United States
+2695,TX,Motley ,US,Texas,United States
+2696,TX,Nacogdoches ,US,Texas,United States
+2697,TX,Navarro ,US,Texas,United States
+2698,TX,Newton ,US,Texas,United States
+2699,TX,Nolan ,US,Texas,United States
+2700,TX,Nueces ,US,Texas,United States
+2701,TX,Ochiltree ,US,Texas,United States
+2702,TX,Oldham ,US,Texas,United States
+2703,TX,Orange ,US,Texas,United States
+2704,TX,Palo Pinto ,US,Texas,United States
+2705,TX,Panola ,US,Texas,United States
+2706,TX,Parker ,US,Texas,United States
+2707,TX,Parmer ,US,Texas,United States
+2708,TX,Pecos ,US,Texas,United States
+2709,TX,Polk ,US,Texas,United States
+2710,TX,Potter ,US,Texas,United States
+2711,TX,Presidio ,US,Texas,United States
+2712,TX,Rains ,US,Texas,United States
+2713,TX,Randall ,US,Texas,United States
+2714,TX,Reagan ,US,Texas,United States
+2715,TX,Real ,US,Texas,United States
+2716,TX,Red River ,US,Texas,United States
+2717,TX,Reeves ,US,Texas,United States
+2718,TX,Refugio ,US,Texas,United States
+2719,TX,Roberts ,US,Texas,United States
+2720,TX,Robertson ,US,Texas,United States
+2721,TX,Rockwall ,US,Texas,United States
+2722,TX,Runnels ,US,Texas,United States
+2723,TX,Rusk ,US,Texas,United States
+2724,TX,Sabine ,US,Texas,United States
+2725,TX,San Augustine ,US,Texas,United States
+2726,TX,San Jacinto ,US,Texas,United States
+2727,TX,San Patricio ,US,Texas,United States
+2728,TX,San Saba ,US,Texas,United States
+2729,TX,Schleicher ,US,Texas,United States
+2730,TX,Scurry ,US,Texas,United States
+2731,TX,Shackelford ,US,Texas,United States
+2732,TX,Shelby ,US,Texas,United States
+2733,TX,Sherman ,US,Texas,United States
+2734,TX,Smith ,US,Texas,United States
+2735,TX,Somervell ,US,Texas,United States
+2736,TX,Starr ,US,Texas,United States
+2737,TX,Stephens ,US,Texas,United States
+2738,TX,Sterling ,US,Texas,United States
+2739,TX,Stonewall ,US,Texas,United States
+2740,TX,Sutton ,US,Texas,United States
+2741,TX,Swisher ,US,Texas,United States
+2742,TX,Tarrant ,US,Texas,United States
+2743,TX,Taylor ,US,Texas,United States
+2744,TX,Terrell ,US,Texas,United States
+2745,TX,Terry ,US,Texas,United States
+2746,TX,Throckmorton ,US,Texas,United States
+2747,TX,Titus ,US,Texas,United States
+2748,TX,Tom Green ,US,Texas,United States
+2749,TX,Travis ,US,Texas,United States
+2750,TX,Trinity ,US,Texas,United States
+2751,TX,Tyler ,US,Texas,United States
+2752,TX,Upshur ,US,Texas,United States
+2753,TX,Upton ,US,Texas,United States
+2754,TX,Uvalde ,US,Texas,United States
+2755,TX,Val Verde ,US,Texas,United States
+2756,TX,Van Zandt ,US,Texas,United States
+2757,TX,Victoria ,US,Texas,United States
+2758,TX,Walker ,US,Texas,United States
+2759,TX,Waller ,US,Texas,United States
+2760,TX,Ward ,US,Texas,United States
+2761,TX,Washington ,US,Texas,United States
+2762,TX,Webb ,US,Texas,United States
+2763,TX,Wharton ,US,Texas,United States
+2764,TX,Wheeler ,US,Texas,United States
+2765,TX,Wichita ,US,Texas,United States
+2766,TX,Wilbarger ,US,Texas,United States
+2767,TX,Willacy ,US,Texas,United States
+2768,TX,Williamson ,US,Texas,United States
+2769,TX,Wilson ,US,Texas,United States
+2770,TX,Winkler ,US,Texas,United States
+2771,TX,Wise ,US,Texas,United States
+2772,TX,Wood ,US,Texas,United States
+2773,TX,Yoakum ,US,Texas,United States
+2774,TX,Young ,US,Texas,United States
+2775,TX,Zapata ,US,Texas,United States
+2776,TX,Zavala ,US,Texas,United States
+2777,UT,Beaver ,US,Utah,United States
+2778,UT,Box Elder ,US,Utah,United States
+2779,UT,Cache ,US,Utah,United States
+2780,UT,Carbon ,US,Utah,United States
+2781,UT,Daggett ,US,Utah,United States
+2782,UT,Davis ,US,Utah,United States
+2783,UT,Duchesne ,US,Utah,United States
+2784,UT,Emery ,US,Utah,United States
+2785,UT,Garfield ,US,Utah,United States
+2786,UT,Grand ,US,Utah,United States
+2787,UT,Iron ,US,Utah,United States
+2788,UT,Juab ,US,Utah,United States
+2789,UT,Kane ,US,Utah,United States
+2790,UT,Millard ,US,Utah,United States
+2791,UT,Morgan ,US,Utah,United States
+2792,UT,Piute ,US,Utah,United States
+2793,UT,Rich ,US,Utah,United States
+2794,UT,Salt Lake ,US,Utah,United States
+2795,UT,San Juan ,US,Utah,United States
+2796,UT,Sanpete ,US,Utah,United States
+2797,UT,Sevier ,US,Utah,United States
+2798,UT,Summit ,US,Utah,United States
+2799,UT,Tooele ,US,Utah,United States
+2800,UT,Uintah ,US,Utah,United States
+2801,UT,Utah ,US,Utah,United States
+2802,UT,Wasatch ,US,Utah,United States
+2803,UT,Washington ,US,Utah,United States
+2804,UT,Wayne ,US,Utah,United States
+2805,UT,Weber ,US,Utah,United States
+2806,VT,Addison ,US,Vermont,United States
+2807,VT,Bennington ,US,Vermont,United States
+2808,VT,Caledonia ,US,Vermont,United States
+2809,VT,Chittenden ,US,Vermont,United States
+2810,VT,Essex ,US,Vermont,United States
+2811,VT,Franklin ,US,Vermont,United States
+2812,VT,Grand Isle ,US,Vermont,United States
+2813,VT,Lamoille ,US,Vermont,United States
+2814,VT,Orange ,US,Vermont,United States
+2815,VT,Orleans ,US,Vermont,United States
+2816,VT,Rutland ,US,Vermont,United States
+2817,VT,Washington ,US,Vermont,United States
+2818,VT,Windham ,US,Vermont,United States
+2819,VT,Windsor ,US,Vermont,United States
+2820,VA,Accomack ,US,Virginia,United States
+2821,VA,Albemarle ,US,Virginia,United States
+2822,VA,Alleghany ,US,Virginia,United States
+2823,VA,Amelia ,US,Virginia,United States
+2824,VA,Amherst ,US,Virginia,United States
+2825,VA,Appomattox ,US,Virginia,United States
+2826,VA,Arlington ,US,Virginia,United States
+2827,VA,Augusta ,US,Virginia,United States
+2828,VA,Bath ,US,Virginia,United States
+2829,VA,Bedford ,US,Virginia,United States
+2830,VA,Bland ,US,Virginia,United States
+2831,VA,Botetourt ,US,Virginia,United States
+2832,VA,Brunswick ,US,Virginia,United States
+2833,VA,Buchanan ,US,Virginia,United States
+2834,VA,Buckingham ,US,Virginia,United States
+2835,VA,Campbell ,US,Virginia,United States
+2836,VA,Caroline ,US,Virginia,United States
+2837,VA,Carroll ,US,Virginia,United States
+2838,VA,Charles City ,US,Virginia,United States
+2839,VA,Charlotte ,US,Virginia,United States
+2840,VA,Chesterfield ,US,Virginia,United States
+2841,VA,Clarke ,US,Virginia,United States
+2842,VA,Craig ,US,Virginia,United States
+2843,VA,Culpeper ,US,Virginia,United States
+2844,VA,Cumberland ,US,Virginia,United States
+2845,VA,Dickenson ,US,Virginia,United States
+2846,VA,Dinwiddie ,US,Virginia,United States
+2847,VA,Essex ,US,Virginia,United States
+2848,VA,Fairfax ,US,Virginia,United States
+2849,VA,Fauquier ,US,Virginia,United States
+2850,VA,Floyd ,US,Virginia,United States
+2851,VA,Fluvanna ,US,Virginia,United States
+2852,VA,Franklin ,US,Virginia,United States
+2853,VA,Frederick ,US,Virginia,United States
+2854,VA,Giles ,US,Virginia,United States
+2855,VA,Gloucester ,US,Virginia,United States
+2856,VA,Goochland ,US,Virginia,United States
+2857,VA,Grayson ,US,Virginia,United States
+2858,VA,Greene ,US,Virginia,United States
+2859,VA,Greensville ,US,Virginia,United States
+2860,VA,Halifax ,US,Virginia,United States
+2861,VA,Hanover ,US,Virginia,United States
+2862,VA,Henrico ,US,Virginia,United States
+2863,VA,Henry ,US,Virginia,United States
+2864,VA,Highland ,US,Virginia,United States
+2865,VA,Isle of Wight ,US,Virginia,United States
+2866,VA,James City ,US,Virginia,United States
+2867,VA,King and Queen ,US,Virginia,United States
+2868,VA,King George ,US,Virginia,United States
+2869,VA,King William ,US,Virginia,United States
+2870,VA,Lancaster ,US,Virginia,United States
+2871,VA,Lee ,US,Virginia,United States
+2872,VA,Loudoun ,US,Virginia,United States
+2873,VA,Louisa ,US,Virginia,United States
+2874,VA,Lunenburg ,US,Virginia,United States
+2875,VA,Madison ,US,Virginia,United States
+2876,VA,Mathews ,US,Virginia,United States
+2877,VA,Mecklenburg ,US,Virginia,United States
+2878,VA,Middlesex ,US,Virginia,United States
+2879,VA,Montgomery ,US,Virginia,United States
+2880,VA,Nelson ,US,Virginia,United States
+2881,VA,New Kent ,US,Virginia,United States
+2882,VA,Northampton ,US,Virginia,United States
+2883,VA,Northumberland ,US,Virginia,United States
+2884,VA,Nottoway ,US,Virginia,United States
+2885,VA,Orange ,US,Virginia,United States
+2886,VA,Page ,US,Virginia,United States
+2887,VA,Patrick ,US,Virginia,United States
+2888,VA,Pittsylvania ,US,Virginia,United States
+2889,VA,Powhatan ,US,Virginia,United States
+2890,VA,Prince Edward ,US,Virginia,United States
+2891,VA,Prince George ,US,Virginia,United States
+2892,VA,Prince William ,US,Virginia,United States
+2893,VA,Pulaski ,US,Virginia,United States
+2894,VA,Rappahannock ,US,Virginia,United States
+2895,VA,Richmond ,US,Virginia,United States
+2896,VA,Roanoke ,US,Virginia,United States
+2897,VA,Rockbridge ,US,Virginia,United States
+2898,VA,Rockingham ,US,Virginia,United States
+2899,VA,Russell ,US,Virginia,United States
+2900,VA,Scott ,US,Virginia,United States
+2901,VA,Shenandoah ,US,Virginia,United States
+2902,VA,Smyth ,US,Virginia,United States
+2903,VA,Southampton ,US,Virginia,United States
+2904,VA,Spotsylvania ,US,Virginia,United States
+2905,VA,Stafford ,US,Virginia,United States
+2906,VA,Surry ,US,Virginia,United States
+2907,VA,Sussex ,US,Virginia,United States
+2908,VA,Tazewell ,US,Virginia,United States
+2909,VA,Warren ,US,Virginia,United States
+2910,VA,Washington ,US,Virginia,United States
+2911,VA,Westmoreland ,US,Virginia,United States
+2912,VA,Wise ,US,Virginia,United States
+2913,VA,Wythe ,US,Virginia,United States
+2914,VA,York ,US,Virginia,United States
+2915,VA,Alexandria city,US,Virginia,United States
+2916,VA,Bedford city,US,Virginia,United States
+2917,VA,Bristol city,US,Virginia,United States
+2918,VA,Buena Vista city,US,Virginia,United States
+2919,VA,Charlottesville city,US,Virginia,United States
+2920,VA,Chesapeake city,US,Virginia,United States
+2921,VA,Colonial Heights city,US,Virginia,United States
+2922,VA,Covington city,US,Virginia,United States
+2923,VA,Danville city,US,Virginia,United States
+2924,VA,Emporia city,US,Virginia,United States
+2925,VA,Fairfax city,US,Virginia,United States
+2926,VA,Falls Church city,US,Virginia,United States
+2927,VA,Franklin city,US,Virginia,United States
+2928,VA,Fredericksburg city,US,Virginia,United States
+2929,VA,Galax city,US,Virginia,United States
+2930,VA,Hampton city,US,Virginia,United States
+2931,VA,Harrisonburg city,US,Virginia,United States
+2932,VA,Hopewell city,US,Virginia,United States
+2933,VA,Lexington city,US,Virginia,United States
+2934,VA,Lynchburg city,US,Virginia,United States
+2935,VA,Manassas city,US,Virginia,United States
+2936,VA,Manassas Park city,US,Virginia,United States
+2937,VA,Martinsville city,US,Virginia,United States
+2938,VA,Newport News city,US,Virginia,United States
+2939,VA,Norfolk city,US,Virginia,United States
+2940,VA,Norton city,US,Virginia,United States
+2941,VA,Petersburg city,US,Virginia,United States
+2942,VA,Poquoson city,US,Virginia,United States
+2943,VA,Portsmouth city,US,Virginia,United States
+2944,VA,Radford city,US,Virginia,United States
+2945,VA,Richmond city,US,Virginia,United States
+2946,VA,Roanoke city,US,Virginia,United States
+2947,VA,Salem city,US,Virginia,United States
+2948,VA,Staunton city,US,Virginia,United States
+2949,VA,Suffolk city,US,Virginia,United States
+2950,VA,Virginia Beach city,US,Virginia,United States
+2951,VA,Waynesboro city,US,Virginia,United States
+2952,VA,Williamsburg city,US,Virginia,United States
+2953,VA,Winchester city,US,Virginia,United States
+2954,WA,Adams ,US,Washington,United States
+2955,WA,Asotin ,US,Washington,United States
+2956,WA,Benton ,US,Washington,United States
+2957,WA,Chelan ,US,Washington,United States
+2958,WA,Clallam ,US,Washington,United States
+2959,WA,Clark ,US,Washington,United States
+2960,WA,Columbia ,US,Washington,United States
+2961,WA,Cowlitz ,US,Washington,United States
+2962,WA,Douglas ,US,Washington,United States
+2963,WA,Ferry ,US,Washington,United States
+2964,WA,Franklin ,US,Washington,United States
+2965,WA,Garfield ,US,Washington,United States
+2966,WA,Grant ,US,Washington,United States
+2967,WA,Grays Harbor ,US,Washington,United States
+2968,WA, ,US,Washington,United States
+2969,WA,Jefferson ,US,Washington,United States
+2970,WA,King ,US,Washington,United States
+2971,WA,Kitsap ,US,Washington,United States
+2972,WA,Kittitas ,US,Washington,United States
+2973,WA,Klickitat ,US,Washington,United States
+2974,WA,Lewis ,US,Washington,United States
+2975,WA,Lincoln ,US,Washington,United States
+2976,WA,Mason ,US,Washington,United States
+2977,WA,Okanogan ,US,Washington,United States
+2978,WA,Pacific ,US,Washington,United States
+2979,WA,Pend Oreille ,US,Washington,United States
+2980,WA,Pierce ,US,Washington,United States
+2981,WA,San Juan ,US,Washington,United States
+2982,WA,Skagit ,US,Washington,United States
+2983,WA,Skamania ,US,Washington,United States
+2984,WA,Snohomish ,US,Washington,United States
+2985,WA,Spokane ,US,Washington,United States
+2986,WA,Stevens ,US,Washington,United States
+2987,WA,Thurston ,US,Washington,United States
+2988,WA,Wahkiakum ,US,Washington,United States
+2989,WA,Walla Walla ,US,Washington,United States
+2990,WA,Whatcom ,US,Washington,United States
+2991,WA,Whitman ,US,Washington,United States
+2992,WA,Yakima ,US,Washington,United States
+2993,WV,Barbour ,US,West Virginia,United States
+2994,WV,Berkeley ,US,West Virginia,United States
+2995,WV,Boone ,US,West Virginia,United States
+2996,WV,Braxton ,US,West Virginia,United States
+2997,WV,Brooke ,US,West Virginia,United States
+2998,WV,Cabell ,US,West Virginia,United States
+2999,WV,Calhoun ,US,West Virginia,United States
+3000,WV,Clay ,US,West Virginia,United States
+3001,WV,Doddridge ,US,West Virginia,United States
+3002,WV,Fayette ,US,West Virginia,United States
+3003,WV,Gilmer ,US,West Virginia,United States
+3004,WV,Grant ,US,West Virginia,United States
+3005,WV,Greenbrier ,US,West Virginia,United States
+3006,WV,Hampshire ,US,West Virginia,United States
+3007,WV,Hancock ,US,West Virginia,United States
+3008,WV,Hardy ,US,West Virginia,United States
+3009,WV,Harrison ,US,West Virginia,United States
+3010,WV,Jackson ,US,West Virginia,United States
+3011,WV,Jefferson ,US,West Virginia,United States
+3012,WV,Kanawha ,US,West Virginia,United States
+3013,WV,Lewis ,US,West Virginia,United States
+3014,WV,Lincoln ,US,West Virginia,United States
+3015,WV,Logan ,US,West Virginia,United States
+3016,WV,McDowell ,US,West Virginia,United States
+3017,WV,Marion ,US,West Virginia,United States
+3018,WV,Marshall ,US,West Virginia,United States
+3019,WV,Mason ,US,West Virginia,United States
+3020,WV,Mercer ,US,West Virginia,United States
+3021,WV,Mineral ,US,West Virginia,United States
+3022,WV,Mingo ,US,West Virginia,United States
+3023,WV,Monongalia ,US,West Virginia,United States
+3024,WV,Monroe ,US,West Virginia,United States
+3025,WV,Morgan ,US,West Virginia,United States
+3026,WV,Nicholas ,US,West Virginia,United States
+3027,WV,Ohio ,US,West Virginia,United States
+3028,WV,Pendleton ,US,West Virginia,United States
+3029,WV,Pleasants ,US,West Virginia,United States
+3030,WV,Pocahontas ,US,West Virginia,United States
+3031,WV,Preston ,US,West Virginia,United States
+3032,WV,Putnam ,US,West Virginia,United States
+3033,WV,Raleigh ,US,West Virginia,United States
+3034,WV,Randolph ,US,West Virginia,United States
+3035,WV,Ritchie ,US,West Virginia,United States
+3036,WV,Roane ,US,West Virginia,United States
+3037,WV,Summers ,US,West Virginia,United States
+3038,WV,Taylor ,US,West Virginia,United States
+3039,WV,Tucker ,US,West Virginia,United States
+3040,WV,Tyler ,US,West Virginia,United States
+3041,WV,Upshur ,US,West Virginia,United States
+3042,WV,Wayne ,US,West Virginia,United States
+3043,WV,Webster ,US,West Virginia,United States
+3044,WV,Wetzel ,US,West Virginia,United States
+3045,WV,Wirt ,US,West Virginia,United States
+3046,WV,Wood ,US,West Virginia,United States
+3047,WV,Wyoming ,US,West Virginia,United States
+3048,WI,Adams ,US,Wisconsin,United States
+3049,WI,Ashland ,US,Wisconsin,United States
+3050,WI,Barron ,US,Wisconsin,United States
+3051,WI,Bayfield ,US,Wisconsin,United States
+3052,WI,Brown ,US,Wisconsin,United States
+3053,WI,Buffalo ,US,Wisconsin,United States
+3054,WI,Burnett ,US,Wisconsin,United States
+3055,WI,Calumet ,US,Wisconsin,United States
+3056,WI,Chippewa ,US,Wisconsin,United States
+3057,WI,Clark ,US,Wisconsin,United States
+3058,WI,Columbia ,US,Wisconsin,United States
+3059,WI,Crawford ,US,Wisconsin,United States
+3060,WI,Dane ,US,Wisconsin,United States
+3061,WI,Dodge ,US,Wisconsin,United States
+3062,WI,Door ,US,Wisconsin,United States
+3063,WI,Douglas ,US,Wisconsin,United States
+3064,WI,Dunn ,US,Wisconsin,United States
+3065,WI,Eau Claire ,US,Wisconsin,United States
+3066,WI,Florence ,US,Wisconsin,United States
+3067,WI,Fond du Lac ,US,Wisconsin,United States
+3068,WI,Forest ,US,Wisconsin,United States
+3069,WI,Grant ,US,Wisconsin,United States
+3070,WI,Green ,US,Wisconsin,United States
+3071,WI,Green Lake ,US,Wisconsin,United States
+3072,WI,Iowa ,US,Wisconsin,United States
+3073,WI,Iron ,US,Wisconsin,United States
+3074,WI,Jackson ,US,Wisconsin,United States
+3075,WI,Jefferson ,US,Wisconsin,United States
+3076,WI,Juneau ,US,Wisconsin,United States
+3077,WI,Kenosha ,US,Wisconsin,United States
+3078,WI,Kewaunee ,US,Wisconsin,United States
+3079,WI,La Crosse ,US,Wisconsin,United States
+3080,WI,Lafayette ,US,Wisconsin,United States
+3081,WI,Langlade ,US,Wisconsin,United States
+3082,WI,Lincoln ,US,Wisconsin,United States
+3083,WI,Manitowoc ,US,Wisconsin,United States
+3084,WI,Marathon ,US,Wisconsin,United States
+3085,WI,Marinette ,US,Wisconsin,United States
+3086,WI,Marquette ,US,Wisconsin,United States
+3087,WI,Menominee ,US,Wisconsin,United States
+3088,WI,Milwaukee ,US,Wisconsin,United States
+3089,WI,Monroe ,US,Wisconsin,United States
+3090,WI,Oconto ,US,Wisconsin,United States
+3091,WI,Oneida ,US,Wisconsin,United States
+3092,WI,Outagamie ,US,Wisconsin,United States
+3093,WI,Ozaukee ,US,Wisconsin,United States
+3094,WI,Pepin ,US,Wisconsin,United States
+3095,WI,Pierce ,US,Wisconsin,United States
+3096,WI,Polk ,US,Wisconsin,United States
+3097,WI,Portage ,US,Wisconsin,United States
+3098,WI,Price ,US,Wisconsin,United States
+3099,WI,Racine ,US,Wisconsin,United States
+3100,WI,Richland ,US,Wisconsin,United States
+3101,WI,Rock ,US,Wisconsin,United States
+3102,WI,Rusk ,US,Wisconsin,United States
+3103,WI,St. Croix ,US,Wisconsin,United States
+3104,WI,Sauk ,US,Wisconsin,United States
+3105,WI,Sawyer ,US,Wisconsin,United States
+3106,WI,Shawano ,US,Wisconsin,United States
+3107,WI,Sheboygan ,US,Wisconsin,United States
+3108,WI,Taylor ,US,Wisconsin,United States
+3109,WI,Trempealeau ,US,Wisconsin,United States
+3110,WI,Vernon ,US,Wisconsin,United States
+3111,WI,Vilas ,US,Wisconsin,United States
+3112,WI,Walworth ,US,Wisconsin,United States
+3113,WI,Washburn ,US,Wisconsin,United States
+3114,WI,Washington ,US,Wisconsin,United States
+3115,WI,Waukesha ,US,Wisconsin,United States
+3116,WI,Waupaca ,US,Wisconsin,United States
+3117,WI,Waushara ,US,Wisconsin,United States
+3118,WI,Winnebago ,US,Wisconsin,United States
+3119,WI,Wood ,US,Wisconsin,United States
+3120,WY,Albany ,US,Wyoming,United States
+3121,WY,Big Horn ,US,Wyoming,United States
+3122,WY,Campbell ,US,Wyoming,United States
+3123,WY,Carbon ,US,Wyoming,United States
+3124,WY,Converse ,US,Wyoming,United States
+3125,WY,Crook ,US,Wyoming,United States
+3126,WY,Fremont ,US,Wyoming,United States
+3127,WY,Goshen ,US,Wyoming,United States
+3128,WY,Hot Springs ,US,Wyoming,United States
+3129,WY,Johnson ,US,Wyoming,United States
+3130,WY,Laramie ,US,Wyoming,United States
+3131,WY,Lincoln ,US,Wyoming,United States
+3132,WY,Natrona ,US,Wyoming,United States
+3133,WY,Niobrara ,US,Wyoming,United States
+3134,WY,Park ,US,Wyoming,United States
+3135,WY,Platte ,US,Wyoming,United States
+3136,WY,Sheridan ,US,Wyoming,United States
+3137,WY,Sublette ,US,Wyoming,United States
+3138,WY,Sweetwater ,US,Wyoming,United States
+3139,WY,Teton ,US,Wyoming,United States
+3140,WY,Uinta ,US,Wyoming,United States
+3141,WY,Washakie ,US,Wyoming,United States
+3142,WY,Weston ,US,Wyoming,United States
+3143,AS,Eastern District,US,American Samoa,United States
+3144,AS,Manu'a District,US,American Samoa,United States
+3145,AS,Rose ,US,American Samoa,United States
+3146,AS,Swains ,US,American Samoa,United States
+3147,AS,Western District,US,American Samoa,United States
+3148,GU,Guam,US,Guam,United States
+3149,MP,Northern s Municipality,US,Northern Mariana Islands,United States
+3150,MP,Rota Municipality,US,Northern Mariana Islands,United States
+3151,MP,Saipan Municipality,US,Northern Mariana Islands,United States
+3152,MP,Tinian Municipality,US,Northern Mariana Islands,United States
+3153,PR,Adjuntas ,US,Puerto Rico,United States
+3154,PR,Aguada ,US,Puerto Rico,United States
+3155,PR,Aguadilla ,US,Puerto Rico,United States
+3156,PR,Aguas Buenas ,US,Puerto Rico,United States
+3157,PR,Aibonito ,US,Puerto Rico,United States
+3158,PR,Anasco ,US,Puerto Rico,United States
+3159,PR,Arecibo ,US,Puerto Rico,United States
+3160,PR,Arroyo ,US,Puerto Rico,United States
+3161,PR,Barceloneta ,US,Puerto Rico,United States
+3162,PR,Barranquitas ,US,Puerto Rico,United States
+3163,PR,Bayamon ,US,Puerto Rico,United States
+3164,PR,Cabo Rojo ,US,Puerto Rico,United States
+3165,PR,Caguas ,US,Puerto Rico,United States
+3166,PR,Camuy ,US,Puerto Rico,United States
+3167,PR,Canovanas ,US,Puerto Rico,United States
+3168,PR,Carolina ,US,Puerto Rico,United States
+3169,PR,Catano ,US,Puerto Rico,United States
+3170,PR,Cayey ,US,Puerto Rico,United States
+3171,PR,Ceiba ,US,Puerto Rico,United States
+3172,PR,Ciales ,US,Puerto Rico,United States
+3173,PR,Cidra ,US,Puerto Rico,United States
+3174,PR,Coamo ,US,Puerto Rico,United States
+3175,PR,Comerio ,US,Puerto Rico,United States
+3176,PR,Corozal ,US,Puerto Rico,United States
+3177,PR,Culebra ,US,Puerto Rico,United States
+3178,PR,Dorado ,US,Puerto Rico,United States
+3179,PR,Fajardo ,US,Puerto Rico,United States
+3180,PR,Florida ,US,Puerto Rico,United States
+3181,PR,Guanica ,US,Puerto Rico,United States
+3182,PR,Guayama ,US,Puerto Rico,United States
+3183,PR,Guayanilla ,US,Puerto Rico,United States
+3184,PR,Guaynabo ,US,Puerto Rico,United States
+3185,PR,Gurabo ,US,Puerto Rico,United States
+3186,PR,Hatillo ,US,Puerto Rico,United States
+3187,PR,Hormigueros ,US,Puerto Rico,United States
+3188,PR,Humacao ,US,Puerto Rico,United States
+3189,PR,Isabela ,US,Puerto Rico,United States
+3190,PR,Jayuya ,US,Puerto Rico,United States
+3191,PR,Juana Diaz ,US,Puerto Rico,United States
+3192,PR,Juncos ,US,Puerto Rico,United States
+3193,PR,Lajas ,US,Puerto Rico,United States
+3194,PR,Lares ,US,Puerto Rico,United States
+3195,PR,Las Marias ,US,Puerto Rico,United States
+3196,PR,Las Piedras ,US,Puerto Rico,United States
+3197,PR,Loiza ,US,Puerto Rico,United States
+3198,PR,Luquillo ,US,Puerto Rico,United States
+3199,PR,Manati ,US,Puerto Rico,United States
+3200,PR,Maricao ,US,Puerto Rico,United States
+3201,PR,Maunabo ,US,Puerto Rico,United States
+3202,PR,Mayaguez ,US,Puerto Rico,United States
+3203,PR,Moca ,US,Puerto Rico,United States
+3204,PR,Morovis ,US,Puerto Rico,United States
+3205,PR,Naguabo ,US,Puerto Rico,United States
+3206,PR,Naranjito ,US,Puerto Rico,United States
+3207,PR,Orocovis ,US,Puerto Rico,United States
+3208,PR,Patillas ,US,Puerto Rico,United States
+3209,PR,Penuelas ,US,Puerto Rico,United States
+3210,PR,Ponce ,US,Puerto Rico,United States
+3211,PR,Quebradillas ,US,Puerto Rico,United States
+3212,PR,Rincon ,US,Puerto Rico,United States
+3213,PR,Rio Grande ,US,Puerto Rico,United States
+3214,PR,Sabana Grande ,US,Puerto Rico,United States
+3215,PR,Salinas ,US,Puerto Rico,United States
+3216,PR,San German ,US,Puerto Rico,United States
+3217,PR,San Juan ,US,Puerto Rico,United States
+3218,PR,San Lorenzo ,US,Puerto Rico,United States
+3219,PR,San Sebastian ,US,Puerto Rico,United States
+3220,PR,Santa Isabel ,US,Puerto Rico,United States
+3221,PR,Toa Alta ,US,Puerto Rico,United States
+3222,PR,Toa Baja ,US,Puerto Rico,United States
+3223,PR,Trujillo Alto ,US,Puerto Rico,United States
+3224,PR,Utuado ,US,Puerto Rico,United States
+3225,PR,Vega Alta ,US,Puerto Rico,United States
+3226,PR,Vega Baja ,US,Puerto Rico,United States
+3227,PR,Vieques ,US,Puerto Rico,United States
+3228,PR,Villalba ,US,Puerto Rico,United States
+3229,PR,Yabucoa ,US,Puerto Rico,United States
+3230,PR,Yauco ,US,Puerto Rico,United States
+3231,UM,Midway s,US,,United States
+3232,VI,St. Croix ,US,Virgin Islands,United States
+3233,VI,St. John ,US,Virgin Islands,United States
+3234,VI,St. Thomas ,US,Virgin Islands,United States

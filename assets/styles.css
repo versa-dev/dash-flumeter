@@ -1,0 +1,230 @@
+/* boxes and containers */
+.boxed {
+    margin: 0 auto;
+    width: 60%;
+}
+
+.fitContent {
+    width: fit-content;
+    margin: 0 auto;
+}
+
+
+/* colors */
+
+.white {
+    color: white;
+}
+
+.red {
+    color: red;
+}
+
+.light {
+   color: #adc1c3;
+}
+
+.dark {
+    color: #082b36;
+}
+
+.bgGray {
+    background-color: #304146;
+}
+
+.bgLight {
+    background: #adc1c3;
+}
+
+.bgDark {
+    background: #082b36;
+}
+
+
+/* position */
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+.margin-auto {
+    margin: 0 auto;
+}
+
+/* display */
+
+.inline-block {
+    display: inline-block;
+}
+
+
+/* typography */
+
+.title {
+    font-size: 40px;
+    line-height: 44px;
+}
+
+.font-xl {
+    font-size: 32px;
+    line-height: 36px;
+}
+
+.font-lg {
+    font-size: 28px;
+    line-height: 32px;
+}
+
+.font-md {
+    font-size: 20px;
+}
+
+.font-sm {
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+/* alingment */
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-left {
+    text-align: left;
+}
+
+
+/* spacing */
+
+.padding8 {
+    padding: 8px;
+}
+
+.padding40 {
+    padding: 40px;
+}
+
+.bottom8 {
+    margin-bottom: 8px;
+}
+
+.bottom16 {
+    margin-bottom: 16px;
+}
+
+.bottom24 {
+    margin-bottom: 24px;
+}
+
+.bottom32 {
+    margin-bottom: 32px;
+}
+
+.bottom40 {
+    margin-bottom: 40px;
+}
+
+.bottom64 {
+    margin-bottom: 64px;
+}
+
+.top8 {
+    margin-top: 8px;
+}
+
+.top16 {
+    margin-top: 16px;
+}
+
+.top24 {
+    margin-top: 24px;
+}
+
+.top32 {
+    margin-top: 32px;
+}
+
+.top40{
+    margin-top: 40px;
+}
+
+
+/* border */
+.border-none {
+    border: none;
+}
+
+.radius32 {
+    border-radius: 32px;
+}
+
+
+/* specific styles */
+
+.male-icons i {
+    font-size: 10rem;
+}
+
+.info-sliders span {
+    font-size: 20px;
+}
+
+.add-btn:hover,
+.add-btn:focus,
+.add-btn:active {
+    background: #839496;
+}
+
+
+/* media queries */
+
+@media screen and (max-width: 1200px) {
+
+    .boxed {
+        width: 70%;
+    }
+
+}
+
+@media screen and (max-width: 991px) {
+
+    .boxed {
+        width: 100%;
+    }
+
+    .font-xl {
+        font-size: 48px;
+        line-height: 52px;
+    }
+
+    .font-lg {
+        font-size: 40px;
+        line-height: 44px;
+    }
+
+    .font-md {
+        font-size: 32px;
+    }
+
+    .font-sm {
+        font-size: 28px;
+        line-height: 32px;
+    }
+
+    .info-sliders span {
+        font-size: 30px;
+    }
+}
